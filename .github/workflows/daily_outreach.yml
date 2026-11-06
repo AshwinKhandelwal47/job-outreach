@@ -1,0 +1,64 @@
+name: Daily Job Outreach Dispatcher
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 AM IST (Monday to Friday: 1-5)
+    - cron: '30 3 * * 1-5'
+
+  # Allows manual triggering anytime from GitHub UI (Actions tab)
+  workflow_dispatch:
+    inputs:
+      customStart:
+        description: 'Optional Start Index (leave empty for automatic daily batch)'
+        required: false
+        default: ''
+      customCount:
+        description: 'Optional Count (leave empty for automatic daily batch)'
+        required: false
+        default: ''
+
+jobs:
+  send-applications:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Daily Outreach Batch (9:00 AM - 11:00 AM IST)
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          if [ -n "${{ github.event.inputs.customStart }}" ] && [ -n "${{ github.event.inputs.customCount }}" ]; then
+            echo "Running custom batch: Start ${{ github.event.inputs.customStart }}, Count ${{ github.event.inputs.customCount }}"
+            node daily_mailer.js --start ${{ github.event.inputs.customStart }} --count ${{ github.event.inputs.customCount }}
+          else
+            echo "Running scheduled batch for today's date..."
+            node daily_mailer.js --today
+          fi
+
+      - name: Commit and Push Updated Campaign Status & Logs
+        if: always()
+        run: |
+          git config --global user.name "Outreach-Bot"
+          git config --global user.email "bot@github-actions.local"
+          git add campaign_plan.json campaign_logs/
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update campaign delivery status & logs [skip ci]"
+            git push
+          fi

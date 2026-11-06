@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gmail Quick Mailer | Job Search Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <div class="header-icon">📧</div>
+      <div>
+        <h1>Gmail Quick Mailer</h1>
+        <p class="subtitle">Send automated job applications or custom emails via Nodemailer</p>
+      </div>
+    </header>
+
+    <!-- Account Status Banner -->
+    <div id="statusBanner" class="status-banner loading">
+      <div class="status-indicator"></div>
+      <span id="statusText">Checking Gmail credentials...</span>
+      <a href="#setup-guide" id="setupLink" class="setup-link hidden">How to set up?</a>
+    </div>
+
+    <!-- Mode Selector Tabs -->
+    <div class="mode-tabs">
+      <button type="button" class="tab-btn active" data-mode="auto" id="tabAuto">
+        <span class="tab-icon">⚡</span>
+        <div class="tab-info">
+          <strong>Auto Generated Mail</strong>
+          <small>Fill role & company for an instant pitch</small>
+        </div>
+      </button>
+      <button type="button" class="tab-btn" data-mode="manual" id="tabManual">
+        <span class="tab-icon">✍️</span>
+        <div class="tab-info">
+          <strong>Write On Your Own</strong>
+          <small>Compose a custom message from scratch</small>
+        </div>
+      </button>
+    </div>
+
+    <!-- Main Email Form -->
+    <form id="emailForm" class="email-form">
+      <!-- Quick Fill from Excel -->
+      <div class="form-group quick-select-group">
+        <label for="contactSelector">
+          📂 Quick-Fill from Excel Sheet:
+        </label>
+        <select id="contactSelector" class="contact-select">
+          <option value="">-- Choose a contact from Excel to auto-fill --</option>
+        </select>
+      </div>
+
+      <!-- Common Field: Receiver -->
+      <div class="form-group">
+        <label for="receiverEmail">
+          Receiver's Email (Gmail) <span class="required">*</span>
+        </label>
+        <div class="input-wrapper">
+          <span class="input-prefix">✉️</span>
+          <input
+            type="email"
+            id="receiverEmail"
+            name="receiverEmail"
+            placeholder="e.g. hr@company.com or recruiter@gmail.com"
+            required
+          />
+        </div>
+      </div>
+
+      <!-- Common Field: Subject -->
+      <div class="form-group">
+        <label for="subject">
+          Subject Line <span class="required">*</span>
+        </label>
+        <div class="input-wrapper">
+          <span class="input-prefix">📌</span>
+          <input
+            type="text"
+            id="subject"
+            name="subject"
+            value="Software Development Intern application - Ashwin Khandelwal"
+            placeholder="e.g. Software Development Intern application - Ashwin Khandelwal"
+            required
+          />
+        </div>
+      </div>
+
+      <!-- OPTION 1: AUTO-GENERATED FIELDS -->
+      <div id="autoFields" class="mode-section active-section">
+        <div class="grid-2">
+          <div class="form-group">
+            <label for="companyName">
+              Company Name <span class="required">*</span>
+            </label>
+            <div class="input-wrapper">
+              <span class="input-prefix">🏢</span>
+              <input
+                type="text"
+                id="companyName"
+                name="companyName"
+                placeholder="e.g. Google, Atlassian, Microsoft"
+                required
+              />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="recipientName">
+              Recipient / Recruiter Name
+            </label>
+            <div class="input-wrapper">
+              <span class="input-prefix">👤</span>
+              <input
+                type="text"
+                id="recipientName"
+                name="recipientName"
+                placeholder="e.g. Sarah or Hiring Team (defaults to 'there')"
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="form-group">
+            <label for="jobRole">
+              Role / Position
+            </label>
+            <div class="input-wrapper">
+              <span class="input-prefix">💼</span>
+              <input
+                type="text"
+                id="jobRole"
+                name="jobRole"
+                value="SDE internship"
+                placeholder="e.g. SDE internship"
+              />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="senderName">
+              Applicant Name
+            </label>
+            <div class="input-wrapper">
+              <span class="input-prefix">✍️</span>
+              <input
+                type="text"
+                id="senderName"
+                name="senderName"
+                value="Ashwin Khandelwal"
+                placeholder="Ashwin Khandelwal"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- Live Preview of Auto Mail -->
+        <div class="preview-box">
+          <div class="preview-header">
+            <span>👁️ Live Message Preview</span>
+            <span class="badge">Auto-updated</span>
+          </div>
+          <div id="livePreview" class="preview-content">
+            <!-- Dynamically populated by script.js -->
+          </div>
+        </div>
+      </div>
+
+      <!-- OPTION 2: WRITE ON YOUR OWN FIELDS -->
+      <div id="manualFields" class="mode-section hidden-section">
+        <div class="form-group">
+          <label for="customMessage">
+            Whole Message <span class="required">*</span>
+          </label>
+          <textarea
+            id="customMessage"
+            name="customMessage"
+            rows="9"
+            placeholder="Dear [Name],&#10;&#10;I hope this email finds you well. I am reaching out to discuss...&#10;&#10;Best regards,&#10;Your Name"
+          ></textarea>
+        </div>
+      </div>
+
+      <!-- Resume & Attachment Options -->
+      <div class="attachments-panel">
+        <div class="checkbox-row">
+          <label class="custom-checkbox">
+            <input type="checkbox" id="attachResume" name="attachResume" checked />
+            <span class="checkmark"></span>
+            <span class="label-text">
+              📎 Attach Resume (<code>Ashwin_Khandelwal_Resume (1).pdf</code>)
+            </span>
+          </label>
+        </div>
+
+        <div class="file-upload-row">
+          <label for="attachmentFile" class="file-label">
+            <span>Or upload another attachment:</span>
+            <input type="file" id="attachmentFile" name="attachment" />
+          </label>
+        </div>
+      </div>
+
+      <!-- Submit Button -->
+      <button type="submit" id="submitBtn" class="submit-btn">
+        <span class="btn-text">🚀 Send Email Now</span>
+        <span class="btn-spinner hidden"></span>
+      </button>
+    </form>
+
+    <!-- Response Message Card -->
+    <div id="responseBox" class="response-box hidden"></div>
+
+    <!-- Scheduled Weekly Campaign Section -->
+    <div class="campaign-card">
+      <div class="campaign-header">
+        <div>
+          <h3>📅 Automated Weekly Campaign</h3>
+          <p class="campaign-sub">200 emails daily (9:00 AM – 11:00 AM IST) • ~34s safe interval</p>
+        </div>
+        <span class="badge active-badge">Scheduled</span>
+      </div>
+      <div class="campaign-table-wrapper">
+        <table class="campaign-table">
+          <thead>
+            <tr>
+              <th>Day & Date</th>
+              <th>Range</th>
+              <th>Count</th>
+              <th>Window</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="campaignTableBody">
+            <!-- Dynamically populated -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Quick Setup Guide Collapsible -->
+    <details id="setup-guide" class="setup-details">
+      <summary>⚙️ How to configure your Gmail App Password</summary>
+      <div class="setup-body">
+        <ol>
+          <li>Open your Google Account and turn on <strong>2-Step Verification</strong> if not already enabled.</li>
+          <li>Navigate to <a href="https://myaccount.google.com/apppasswords" target="_blank" rel="noopener">Google App Passwords</a>.</li>
+          <li>Enter an app name like <code>JobSearchMailer</code> and click <strong>Create</strong>.</li>
+          <li>Copy the 16-character password provided by Google.</li>
+          <li>Open the <code>.env</code> file in this project folder and enter:
+            <pre><code>GMAIL_USER=your-actual-email@gmail.com
+GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
+PORT=3000</code></pre>
+          </li>
+          <li>Restart the server (or it will auto-detect next time you send).</li>
+        </ol>
+      </div>
+    </details>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

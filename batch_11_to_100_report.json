@@ -1,0 +1,902 @@
+{
+  "skipped": [
+    {
+      "globalNum": 49,
+      "sno": 49,
+      "company": "Cygnet Digital",
+      "name": "Liroy Chauhan",
+      "email": "liroy.chauhan@cygnet-digital.com",
+      "reason": "Explicitly excluded (#49)"
+    },
+    {
+      "globalNum": 97,
+      "sno": 49,
+      "company": "daytimedrinking",
+      "name": "Anuj",
+      "email": "anuj@daytimedrinking.club",
+      "reason": "Explicitly excluded (#49)"
+    }
+  ],
+  "results": [
+    {
+      "num": 11,
+      "sno": 11,
+      "name": "Brahama Raju",
+      "company": "IESoftek",
+      "email": "brahma@iesoftek.com",
+      "status": "SUCCESS",
+      "messageId": "<aa3ee289-8532-4782-0fc8-13e0216e71ba@gmail.com>",
+      "timestamp": "2026-11-06T21:07:03.846Z"
+    },
+    {
+      "num": 12,
+      "sno": 12,
+      "name": "Krishnil Bhojani",
+      "company": "Omega Orion",
+      "email": "krishnilbhojani2001@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<2d616eec-6ad3-7311-d579-008df5f2c2b3@gmail.com>",
+      "timestamp": "2026-11-06T21:07:09.888Z"
+    },
+    {
+      "num": 13,
+      "sno": 13,
+      "name": "Neha Upadhyay",
+      "company": "Groww Stacks",
+      "email": "neha.upadhyay@brisklearning.com",
+      "status": "SUCCESS",
+      "messageId": "<d41b1172-994b-3c80-b812-961639b64fb8@gmail.com>",
+      "timestamp": "2026-11-06T21:07:16.011Z"
+    },
+    {
+      "num": 14,
+      "sno": 14,
+      "name": "Fhalak Khanna",
+      "company": "Rite Software",
+      "email": "fhalak.khanna@ritesoftware.com",
+      "status": "SUCCESS",
+      "messageId": "<130a4e9e-7310-ba30-3dca-5cbe2919faf4@gmail.com>",
+      "timestamp": "2026-11-06T21:07:22.334Z"
+    },
+    {
+      "num": 15,
+      "sno": 15,
+      "name": "Anushka Gupta",
+      "company": "CentoCode",
+      "email": "anushka@centocode.com",
+      "status": "SUCCESS",
+      "messageId": "<af65d2f0-ef03-a0e8-4025-d2492012302c@gmail.com>",
+      "timestamp": "2026-11-06T21:07:28.418Z"
+    },
+    {
+      "num": 16,
+      "sno": 16,
+      "name": "Nidhi Sharma",
+      "company": "Apptunix",
+      "email": "nidhisharma@apptunix.com",
+      "status": "SUCCESS",
+      "messageId": "<172c5534-1e69-3722-165e-368ead1fc69d@gmail.com>",
+      "timestamp": "2026-11-06T21:07:34.470Z"
+    },
+    {
+      "num": 17,
+      "sno": 17,
+      "name": "Priti Chaudhary",
+      "company": "LBM Solutions",
+      "email": "priti.chaudhary@lbmsolutions.in",
+      "status": "SUCCESS",
+      "messageId": "<ee0795dc-2f8a-5ab1-077d-96cde95e7675@gmail.com>",
+      "timestamp": "2026-11-06T21:07:40.983Z"
+    },
+    {
+      "num": 18,
+      "sno": 18,
+      "name": "Vashali Thakur",
+      "company": "Softtrix Tech solutions",
+      "email": "aliza@softtrix.com",
+      "status": "SUCCESS",
+      "messageId": "<c7d1ac59-1096-87ee-6cb7-0d6109b6efae@gmail.com>",
+      "timestamp": "2026-11-06T21:07:46.999Z"
+    },
+    {
+      "num": 19,
+      "sno": 19,
+      "name": "Mitali",
+      "company": "Webguruz Technologies Pvt. Ltd.",
+      "email": "mitali1124.bba19@chitkara.edu.in",
+      "status": "SUCCESS",
+      "messageId": "<3726f824-1dc5-e153-8287-1e709f3e6c22@gmail.com>",
+      "timestamp": "2026-11-06T21:07:53.024Z"
+    },
+    {
+      "num": 20,
+      "sno": 20,
+      "name": "Laxhmi Pal",
+      "company": "Ground Truth",
+      "email": "laxmi.pal@groundtruth.com",
+      "status": "SUCCESS",
+      "messageId": "<66584919-e782-8014-efdb-93c105f01c47@gmail.com>",
+      "timestamp": "2026-11-06T21:07:58.718Z"
+    },
+    {
+      "num": 21,
+      "sno": 21,
+      "name": "Pallavi Patidar",
+      "company": "Source Bae",
+      "email": "pallavi@sourcebae.com",
+      "status": "SUCCESS",
+      "messageId": "<d2c3c9b5-6e3b-65dc-1d8c-ae2260561514@gmail.com>",
+      "timestamp": "2026-11-06T21:08:05.039Z"
+    },
+    {
+      "num": 22,
+      "sno": 22,
+      "name": "Anshika Priyadarshni",
+      "company": "Qtonix Software pvt.Ltd",
+      "email": "anshika.qtonix@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<f6fc3cf2-8171-b39c-42cf-2ccd98082b3a@gmail.com>",
+      "timestamp": "2026-11-06T21:08:11.405Z"
+    },
+    {
+      "num": 23,
+      "sno": 23,
+      "name": "Sakshi Tomar",
+      "company": "Norstella",
+      "email": "sakshi.tomar@agilite.tech",
+      "status": "SUCCESS",
+      "messageId": "<4602a7ae-f3ac-0179-2bef-e0663b360051@gmail.com>",
+      "timestamp": "2026-11-06T21:08:17.420Z"
+    },
+    {
+      "num": 24,
+      "sno": 24,
+      "name": "Hiring Team",
+      "company": "Status neo",
+      "email": "reach@statusneo.com",
+      "status": "SUCCESS",
+      "messageId": "<b6edd5c0-3c3b-d797-bfdd-b61788417c6a@gmail.com>",
+      "timestamp": "2026-11-06T21:08:23.490Z"
+    },
+    {
+      "num": 25,
+      "sno": 25,
+      "name": "Jagdeep Vaid",
+      "company": "Xeba",
+      "email": "jagdeep.vaid@xebia.com",
+      "status": "SUCCESS",
+      "messageId": "<32cdf311-b0f0-6b8e-a615-922b758d027c@gmail.com>",
+      "timestamp": "2026-11-06T21:08:29.466Z"
+    },
+    {
+      "num": 26,
+      "sno": 26,
+      "name": "Harshita Shukala",
+      "company": "Nagarro",
+      "email": "harshita.shukla@nagarro.com",
+      "status": "SUCCESS",
+      "messageId": "<78d31d27-2f16-ed5b-f8c0-4a2b6eb4d985@gmail.com>",
+      "timestamp": "2026-11-06T21:08:35.549Z"
+    },
+    {
+      "num": 27,
+      "sno": 27,
+      "name": "Michal Ayalon",
+      "company": "Align Technologies",
+      "email": "mayalon@aligntech.com",
+      "status": "SUCCESS",
+      "messageId": "<ad43555a-61d0-2355-fd6a-71de04a528fd@gmail.com>",
+      "timestamp": "2026-11-06T21:08:41.661Z"
+    },
+    {
+      "num": 28,
+      "sno": 28,
+      "name": "Anand",
+      "company": "Avalara",
+      "email": "anand.nair@avalara.com",
+      "status": "SUCCESS",
+      "messageId": "<c2f3ecee-dfb6-8d57-6bce-a766d5d1ce9f@gmail.com>",
+      "timestamp": "2026-11-06T21:08:48.294Z"
+    },
+    {
+      "num": 29,
+      "sno": 29,
+      "name": "Vinisha Sushmita Paul",
+      "company": "Turing",
+      "email": "vinpower.19@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<06fe970c-dd14-6b12-ee37-3cace3fcce5e@gmail.com>",
+      "timestamp": "2026-11-06T21:08:54.404Z"
+    },
+    {
+      "num": 30,
+      "sno": 30,
+      "name": "Govind C.",
+      "company": "AUOTAM",
+      "email": "govindchauhanofficial@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<6b292ab6-e51e-31a1-3192-60f360f63e40@gmail.com>",
+      "timestamp": "2026-11-06T21:09:00.041Z"
+    },
+    {
+      "num": 31,
+      "sno": 31,
+      "name": "Saiket Sen",
+      "company": "Narayana Health",
+      "email": "saikat.sen@narayanahealth.org",
+      "status": "SUCCESS",
+      "messageId": "<6eda4401-25da-0ca2-6b83-a31676d447ff@gmail.com>",
+      "timestamp": "2026-11-06T21:09:06.079Z"
+    },
+    {
+      "num": 32,
+      "sno": 32,
+      "name": "Shivani Pathak",
+      "company": "Brain Inventory",
+      "email": "s.pathak@braininventory.com",
+      "status": "SUCCESS",
+      "messageId": "<3cbecb1c-67aa-715a-5270-f89b379fded6@gmail.com>",
+      "timestamp": "2026-11-06T21:09:12.280Z"
+    },
+    {
+      "num": 33,
+      "sno": 33,
+      "name": "Shifat Hussain",
+      "company": "Web N Soft solution",
+      "email": "shifat@webnsoftsolution.com",
+      "status": "SUCCESS",
+      "messageId": "<3f06cc79-d84b-3b4f-2c59-9eba95cdac84@gmail.com>",
+      "timestamp": "2026-11-06T21:09:18.285Z"
+    },
+    {
+      "num": 34,
+      "sno": 34,
+      "name": "Arpana Singh",
+      "company": "HCL tech",
+      "email": "arpana.singh@hcltech.com",
+      "status": "SUCCESS",
+      "messageId": "<9805e723-3921-64ed-6555-b34e0586284e@gmail.com>",
+      "timestamp": "2026-11-06T21:09:23.703Z"
+    },
+    {
+      "num": 35,
+      "sno": 35,
+      "name": "Pragati Bhosale",
+      "company": "HCL tech",
+      "email": "pragati.bhosale@hcl.com",
+      "status": "SUCCESS",
+      "messageId": "<583e5aa1-30c5-1199-1476-6c014213146c@gmail.com>",
+      "timestamp": "2026-11-06T21:09:29.702Z"
+    },
+    {
+      "num": 36,
+      "sno": 36,
+      "name": "Sawan S Laddha Founder",
+      "company": "Workie",
+      "email": "sawan@workie.in",
+      "status": "SUCCESS",
+      "messageId": "<33ac5406-7274-0068-22a2-e1e0cb53eb5d@gmail.com>",
+      "timestamp": "2026-11-06T21:09:35.764Z"
+    },
+    {
+      "num": 37,
+      "sno": 37,
+      "name": "Nandini Pandey",
+      "company": "HyperBeans Inc",
+      "email": "npandey@hyperbeans.com",
+      "status": "SUCCESS",
+      "messageId": "<6ecaf957-c201-fdcd-739a-de97d7bd75bf@gmail.com>",
+      "timestamp": "2026-11-06T21:09:41.752Z"
+    },
+    {
+      "num": 38,
+      "sno": 38,
+      "name": "Joseph Kattukaran",
+      "company": "Meta Scifor Technologies",
+      "email": "josephkattukaran1@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<aafd23e5-289e-a347-f45b-19e08474cdc2@gmail.com>",
+      "timestamp": "2026-11-06T21:09:47.781Z"
+    },
+    {
+      "num": 39,
+      "sno": 39,
+      "name": "Manash Kumar Das",
+      "company": "RedSol Pte Ltd",
+      "email": "manash@redsolpl.com",
+      "status": "SUCCESS",
+      "messageId": "<27d98100-03bf-5470-4d74-3e663d6cfe7b@gmail.com>",
+      "timestamp": "2026-11-06T21:09:53.965Z"
+    },
+    {
+      "num": 40,
+      "sno": 40,
+      "name": "Soumi Dae",
+      "company": "Mercor",
+      "email": "soumi@mercor.com",
+      "status": "SUCCESS",
+      "messageId": "<adb232c5-359b-c77d-bc6e-010fd4ad7aa5@gmail.com>",
+      "timestamp": "2026-11-06T21:09:59.980Z"
+    },
+    {
+      "num": 41,
+      "sno": 41,
+      "name": "Mohinder Kumar",
+      "company": "Zepto",
+      "email": "mohinder.kumar@zeptonow.com",
+      "status": "SUCCESS",
+      "messageId": "<8d5aea99-7b68-5101-0cdc-52591a0f5087@gmail.com>",
+      "timestamp": "2026-11-06T21:10:05.968Z"
+    },
+    {
+      "num": 42,
+      "sno": 42,
+      "name": "Manisha Kapoor",
+      "company": "Swiggy",
+      "email": "manisha.kapoor@swiggy.com",
+      "status": "SUCCESS",
+      "messageId": "<90a67b33-dca1-8943-5df7-43d55f0ce6ce@gmail.com>",
+      "timestamp": "2026-11-06T21:10:11.920Z"
+    },
+    {
+      "num": 43,
+      "sno": 43,
+      "name": "Ankita Sharma",
+      "company": "Swiggy",
+      "email": "ankita.sharma@swiggy.com",
+      "status": "SUCCESS",
+      "messageId": "<d6d23935-0680-c00a-8b29-6ba591fda15e@gmail.com>",
+      "timestamp": "2026-11-06T21:10:18.117Z"
+    },
+    {
+      "num": 44,
+      "sno": 44,
+      "name": "Aradhana Singh",
+      "company": "InOrg Global",
+      "email": "aradhana.singh@kipi.bi",
+      "status": "SUCCESS",
+      "messageId": "<56dbf586-8ce5-2211-8563-95f6a00c930a@gmail.com>",
+      "timestamp": "2026-11-06T21:10:23.747Z"
+    },
+    {
+      "num": 45,
+      "sno": 45,
+      "name": "Shyam John",
+      "company": "Exela Technologies",
+      "email": "shyam.john@exelatech.com",
+      "status": "SUCCESS",
+      "messageId": "<5acd3212-8d85-57fd-430a-7de50e1eb7bb@gmail.com>",
+      "timestamp": "2026-11-06T21:10:29.707Z"
+    },
+    {
+      "num": 46,
+      "sno": 46,
+      "name": "Kartik Mathur",
+      "company": "Solvative",
+      "email": "kartikmathur79@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<e548982e-b890-1e1a-f85f-793f20d25269@gmail.com>",
+      "timestamp": "2026-11-06T21:10:35.851Z"
+    },
+    {
+      "num": 47,
+      "sno": 47,
+      "name": "Syed Ayyub",
+      "company": "Infostretch",
+      "email": "syed.ayyub@apexon.com",
+      "status": "SUCCESS",
+      "messageId": "<de33b4a8-dd67-d0ac-5db7-a1414f32f66e@gmail.com>",
+      "timestamp": "2026-11-06T21:10:41.564Z"
+    },
+    {
+      "num": 48,
+      "sno": 48,
+      "name": "Suganya Chandrasekhran",
+      "company": "Apexon",
+      "email": "suganya.chandrasekaran@apexon.com",
+      "status": "SUCCESS",
+      "messageId": "<4d4fb092-33d1-5d1e-ecbb-97fdc4a4384a@gmail.com>",
+      "timestamp": "2026-11-06T21:10:47.727Z"
+    },
+    {
+      "num": 50,
+      "sno": 50,
+      "name": "Ganesh",
+      "company": "Lucent Innovation",
+      "email": "hetal.joshi@auxanoglobalservices.com",
+      "status": "SUCCESS",
+      "messageId": "<53abf350-b03f-b481-1a32-fb676a945036@gmail.com>",
+      "timestamp": "2026-11-06T21:10:53.357Z"
+    },
+    {
+      "num": 51,
+      "sno": 1,
+      "name": "Hiring Team",
+      "company": "Travander",
+      "email": "work@tavander.in",
+      "status": "SUCCESS",
+      "messageId": "<42b7e72a-0f9a-c434-e6c9-9f96927332e2@gmail.com>",
+      "timestamp": "2026-11-06T21:10:59.110Z"
+    },
+    {
+      "num": 52,
+      "sno": 2,
+      "name": "Hiring Team",
+      "company": "Vertex Infosoft Solutions Pvt.Ltd",
+      "email": "careers@vertexinfosoft.com",
+      "status": "SUCCESS",
+      "messageId": "<3cd7f6b6-7d04-a6e3-5e3a-d9ebfe3f97da@gmail.com>",
+      "timestamp": "2026-11-06T21:11:05.205Z"
+    },
+    {
+      "num": 53,
+      "sno": 3,
+      "name": "Hiring Team",
+      "company": "CBA",
+      "email": "careers@aba.com.pk",
+      "status": "SUCCESS",
+      "messageId": "<da06b7ef-745b-fad0-b4a5-1618bd6edfd5@gmail.com>",
+      "timestamp": "2026-11-06T21:11:11.629Z"
+    },
+    {
+      "num": 54,
+      "sno": 4,
+      "name": "Hiring Team",
+      "company": "Xpheno",
+      "email": "haznooriya.n@xpheno.com",
+      "status": "SUCCESS",
+      "messageId": "<98d26220-c993-b1d6-28f8-5c0a088e2a9a@gmail.com>",
+      "timestamp": "2026-11-06T21:11:17.318Z"
+    },
+    {
+      "num": 55,
+      "sno": 6,
+      "name": "Parnavi Srivastava",
+      "company": "Yendigital",
+      "email": "parnavi.srivastava@yendigital.com",
+      "status": "SUCCESS",
+      "messageId": "<54a9c3ee-5920-c489-bffc-33a410eca160@gmail.com>",
+      "timestamp": "2026-11-06T21:11:22.923Z"
+    },
+    {
+      "num": 56,
+      "sno": 7,
+      "name": "Hiring Team",
+      "company": "InstaAstro",
+      "email": "hr@instaastro.in",
+      "status": "SUCCESS",
+      "messageId": "<b569f1fd-29e6-b09d-6bda-94b03f152bb3@gmail.com>",
+      "timestamp": "2026-11-06T21:11:28.623Z"
+    },
+    {
+      "num": 57,
+      "sno": 8,
+      "name": "Himanshi",
+      "company": "Wizni",
+      "email": "himanshi@wizni.com",
+      "status": "SUCCESS",
+      "messageId": "<1dc34b4a-85bc-8da2-9e4b-4fb1cc2fa777@gmail.com>",
+      "timestamp": "2026-11-06T21:11:34.666Z"
+    },
+    {
+      "num": 58,
+      "sno": 9,
+      "name": "Krishnanjanany",
+      "company": "your AI team",
+      "email": "krishnanjanany@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<fb5d7d6e-8add-3958-76d9-5d228912d570@gmail.com>",
+      "timestamp": "2026-11-06T21:11:40.543Z"
+    },
+    {
+      "num": 59,
+      "sno": 10,
+      "name": "Kaavyya",
+      "company": "wtf.com",
+      "email": "kaavyya@allthingswtf.com",
+      "status": "SUCCESS",
+      "messageId": "<22d85b6d-07f4-07da-7976-7ebf24117caf@gmail.com>",
+      "timestamp": "2026-11-06T21:11:46.456Z"
+    },
+    {
+      "num": 60,
+      "sno": 11,
+      "name": "Monika Mukhija",
+      "company": "fantv",
+      "email": "monika.mukhija@fantv.in",
+      "status": "SUCCESS",
+      "messageId": "<d67295d2-2fa5-6fe9-9502-29b1a650f609@gmail.com>",
+      "timestamp": "2026-11-06T21:11:52.433Z"
+    },
+    {
+      "num": 61,
+      "sno": 12,
+      "name": "Keshavism",
+      "company": "your company",
+      "email": "keshavism@icloud.com",
+      "status": "SUCCESS",
+      "messageId": "<583f2573-0967-6b7b-9ab4-48d8c90f2032@gmail.com>",
+      "timestamp": "2026-11-06T21:11:57.763Z"
+    },
+    {
+      "num": 62,
+      "sno": 13,
+      "name": "Hiring Team",
+      "company": "coverstack",
+      "email": "tech-applications@coverstack.in",
+      "status": "SUCCESS",
+      "messageId": "<fc669809-4bca-8963-0539-7a9ef6279818@gmail.com>",
+      "timestamp": "2026-11-06T21:12:03.836Z"
+    },
+    {
+      "num": 63,
+      "sno": 14,
+      "name": "Mayuris",
+      "company": "Raman Research Institute",
+      "email": "mayuris@rri.res.in",
+      "status": "SUCCESS",
+      "messageId": "<053c2b9b-14e5-748b-6a4d-a11f7494bf4f@gmail.com>",
+      "timestamp": "2026-11-06T21:12:09.870Z"
+    },
+    {
+      "num": 64,
+      "sno": 15,
+      "name": "Milanhrdept",
+      "company": "Aryson Technologies",
+      "email": "milanhrdept@arysontechnologies.com",
+      "status": "SUCCESS",
+      "messageId": "<38176481-f2e3-24f2-231b-c3cf3a1de73e@gmail.com>",
+      "timestamp": "2026-11-06T21:12:16.021Z"
+    },
+    {
+      "num": 65,
+      "sno": 16,
+      "name": "Hiring Team",
+      "company": "Sthambh",
+      "email": "connect@sthambh.com",
+      "status": "SUCCESS",
+      "messageId": "<19932396-8f2d-19f9-3bc2-47e9ad1a8736@gmail.com>",
+      "timestamp": "2026-11-06T21:12:21.713Z"
+    },
+    {
+      "num": 66,
+      "sno": 17,
+      "name": "Ikuldeep",
+      "company": "Sigmoid",
+      "email": "ikuldeep01@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<f84ff73d-6103-817b-11a6-deb9dd1f2ef4@gmail.com>",
+      "timestamp": "2026-11-06T21:12:26.998Z"
+    },
+    {
+      "num": 67,
+      "sno": 18,
+      "name": "Hiring Team",
+      "company": "betterhalf.ai",
+      "email": "careers@betterhalf.ai",
+      "status": "SUCCESS",
+      "messageId": "<588028e6-5905-8864-4caf-588a51ba9639@gmail.com>",
+      "timestamp": "2026-11-06T21:12:32.667Z"
+    },
+    {
+      "num": 68,
+      "sno": 19,
+      "name": "Hiring Team",
+      "company": "witty brains",
+      "email": "hr@wittybrains.com",
+      "status": "SUCCESS",
+      "messageId": "<18142db7-9ea4-44e1-dedc-b5b3be6a9017@gmail.com>",
+      "timestamp": "2026-11-06T21:12:38.248Z"
+    },
+    {
+      "num": 69,
+      "sno": 20,
+      "name": "Adheeshmishra",
+      "company": "your startup",
+      "email": "adheeshmishra22@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<0c07f732-4d73-2631-f1d7-5fd3f21b5d55@gmail.com>",
+      "timestamp": "2026-11-06T21:12:43.561Z"
+    },
+    {
+      "num": 70,
+      "sno": 21,
+      "name": "Sriram",
+      "company": "Annulart technologies",
+      "email": "sriram@annularttechnologies.com",
+      "status": "SUCCESS",
+      "messageId": "<59094c99-f819-c396-fc8b-d4b2df61ab26@gmail.com>",
+      "timestamp": "2026-11-06T21:12:49.596Z"
+    },
+    {
+      "num": 71,
+      "sno": 22,
+      "name": "Rupeshkk",
+      "company": "sigmoid Refferal",
+      "email": "rupeshkk@sigmoidanalytics.com",
+      "status": "SUCCESS",
+      "messageId": "<34d5ae4e-6c01-a98e-6c4d-df9b275e26db@gmail.com>",
+      "timestamp": "2026-11-06T21:12:55.324Z"
+    },
+    {
+      "num": 72,
+      "sno": 23,
+      "name": "Hiring Team",
+      "company": "Asset.com",
+      "email": "recruitment@asset.com.eg",
+      "status": "SUCCESS",
+      "messageId": "<011084e3-3029-68ba-cf16-a0a329a6f110@gmail.com>",
+      "timestamp": "2026-11-06T21:13:00.948Z"
+    },
+    {
+      "num": 73,
+      "sno": 24,
+      "name": "Hiring Team",
+      "company": "teqtop",
+      "email": "hr@teqtop.com",
+      "status": "SUCCESS",
+      "messageId": "<a7f1b3b4-2d1a-f52c-a411-9fd022e96d6f@gmail.com>",
+      "timestamp": "2026-11-06T21:13:07.032Z"
+    },
+    {
+      "num": 74,
+      "sno": 25,
+      "name": "Hiring Team",
+      "company": "Medial",
+      "email": "jobs@medial.app",
+      "status": "SUCCESS",
+      "messageId": "<dd8b1962-2fb7-1a49-9f68-05951ea101d4@gmail.com>",
+      "timestamp": "2026-11-06T21:13:12.834Z"
+    },
+    {
+      "num": 75,
+      "sno": 26,
+      "name": "Cavery Mahajan",
+      "company": "techolution",
+      "email": "cavery.mahajan@techolution.com",
+      "status": "SUCCESS",
+      "messageId": "<3b9860e8-f0e1-96eb-87b1-5cc35b73a89e@gmail.com>",
+      "timestamp": "2026-11-06T21:13:18.587Z"
+    },
+    {
+      "num": 76,
+      "sno": 27,
+      "name": "Suryansh Tiwari",
+      "company": "Spinny",
+      "email": "suryansh.tiwari@spinny.com",
+      "status": "SUCCESS",
+      "messageId": "<4e36abd6-d9f8-bb07-463a-7f608b5405eb@gmail.com>",
+      "timestamp": "2026-11-06T21:13:24.311Z"
+    },
+    {
+      "num": 77,
+      "sno": 28,
+      "name": "Hiring Team",
+      "company": "Amplelogic",
+      "email": "mamatha.p@amplelogic.com",
+      "status": "SUCCESS",
+      "messageId": "<eca4c330-d2a5-f709-cea2-e8d8b61354a7@gmail.com>",
+      "timestamp": "2026-11-06T21:13:29.648Z"
+    },
+    {
+      "num": 78,
+      "sno": 29,
+      "name": "Amandeep Rai",
+      "company": "Eblsec",
+      "email": "amandeep.rai@eblsec.com",
+      "status": "SUCCESS",
+      "messageId": "<97d45a10-27a6-0d67-3d11-f82c8eaecdae@gmail.com>",
+      "timestamp": "2026-11-06T21:13:35.388Z"
+    },
+    {
+      "num": 79,
+      "sno": 30,
+      "name": "Anushka",
+      "company": "Ideausher",
+      "email": "anushka@ideausher.com",
+      "status": "SUCCESS",
+      "messageId": "<f9534b75-8aed-243d-accb-d26b9ef034e8@gmail.com>",
+      "timestamp": "2026-11-06T21:13:42.023Z"
+    },
+    {
+      "num": 80,
+      "sno": 31,
+      "name": "Sanjanasupriya Ext",
+      "company": "Urban Company",
+      "email": "sanjanasupriya.ext@urbancompany.com",
+      "status": "SUCCESS",
+      "messageId": "<2f99eda3-4858-46ce-e2d1-ffa53c07694f@gmail.com>",
+      "timestamp": "2026-11-06T21:13:47.318Z"
+    },
+    {
+      "num": 81,
+      "sno": 33,
+      "name": "Hiring Team",
+      "company": "neewee.ai",
+      "email": "careers@neewee.ai",
+      "status": "SUCCESS",
+      "messageId": "<476acaa2-c113-b374-4c3f-7d33d37a6107@gmail.com>",
+      "timestamp": "2026-11-06T21:13:53.007Z"
+    },
+    {
+      "num": 82,
+      "sno": 34,
+      "name": "Anjali Mishra",
+      "company": "cars24",
+      "email": "anjali.mishra@cars24.com",
+      "status": "SUCCESS",
+      "messageId": "<40cb8b00-3997-2a36-0229-a389382ce15b@gmail.com>",
+      "timestamp": "2026-11-06T21:13:58.642Z"
+    },
+    {
+      "num": 83,
+      "sno": 35,
+      "name": "Hiring Team",
+      "company": "textrai",
+      "email": "founders@textrai.com",
+      "status": "SUCCESS",
+      "messageId": "<4ee17fc7-0dc0-979a-4c1c-d93a5317e9cd@gmail.com>",
+      "timestamp": "2026-11-06T21:14:04.021Z"
+    },
+    {
+      "num": 84,
+      "sno": 36,
+      "name": "Anuraag Bhattacharya",
+      "company": "Mercedes Benz R&D(MBRDI)",
+      "email": "anuraag.bhattacharya98@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<96c8a86f-626a-841c-776a-892351196160@gmail.com>",
+      "timestamp": "2026-11-06T21:14:09.321Z"
+    },
+    {
+      "num": 85,
+      "sno": 37,
+      "name": "Jayanth Srinivas",
+      "company": "Emotorad",
+      "email": "jayanth.srinivas@emotorad.com",
+      "status": "SUCCESS",
+      "messageId": "<44ead3b6-fc5b-969a-b1f2-a94e3595d90d@gmail.com>",
+      "timestamp": "2026-11-06T21:14:15.653Z"
+    },
+    {
+      "num": 86,
+      "sno": 38,
+      "name": "Rishabmathur",
+      "company": "your startup",
+      "email": "rishabmathur@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<c7e1b307-37e7-6796-2fda-3a942c513a54@gmail.com>",
+      "timestamp": "2026-11-06T21:14:21.867Z"
+    },
+    {
+      "num": 87,
+      "sno": 39,
+      "name": "Hiring Team",
+      "company": "Punt Partners",
+      "email": "careers@punt.partners",
+      "status": "SUCCESS",
+      "messageId": "<b01ee1b1-f768-0a90-2cba-23b3445ce18d@gmail.com>",
+      "timestamp": "2026-11-06T21:14:29.214Z"
+    },
+    {
+      "num": 88,
+      "sno": 40,
+      "name": "Anup Pohaney",
+      "company": "Awign",
+      "email": "anup.pohaney@awign.com",
+      "status": "SUCCESS",
+      "messageId": "<8db42e6a-4d1e-aec8-8f2a-5e4b5e41ceb5@gmail.com>",
+      "timestamp": "2026-11-06T21:14:35.323Z"
+    },
+    {
+      "num": 89,
+      "sno": 41,
+      "name": "Hiring Team",
+      "company": "Codingspoon",
+      "email": "info@codingspoon.com",
+      "status": "SUCCESS",
+      "messageId": "<ff86d232-2a48-f0fd-d411-c58f38bc600b@gmail.com>",
+      "timestamp": "2026-11-06T21:14:41.026Z"
+    },
+    {
+      "num": 90,
+      "sno": 42,
+      "name": "Hiring Team",
+      "company": "enalo",
+      "email": "simran.k@enalo.in",
+      "status": "SUCCESS",
+      "messageId": "<4b2a7d0f-5614-cd4e-649e-7292a322c53b@gmail.com>",
+      "timestamp": "2026-11-06T21:14:46.715Z"
+    },
+    {
+      "num": 91,
+      "sno": 43,
+      "name": "Sakshi",
+      "company": "porcellia",
+      "email": "sakshi@porcellia.com",
+      "status": "SUCCESS",
+      "messageId": "<b3127cb5-d96f-e7a6-e5ae-4a3c0c20d6a7@gmail.com>",
+      "timestamp": "2026-11-06T21:14:51.930Z"
+    },
+    {
+      "num": 92,
+      "sno": 44,
+      "name": "Hiring Team",
+      "company": "Accelq",
+      "email": "career@accelq.com",
+      "status": "SUCCESS",
+      "messageId": "<508dfae8-6541-b2cf-4074-179f5407fb96@gmail.com>",
+      "timestamp": "2026-11-06T21:14:57.312Z"
+    },
+    {
+      "num": 93,
+      "sno": 45,
+      "name": "Hiring Team",
+      "company": "imocha",
+      "email": "talentacquisition@imocha.io",
+      "status": "SUCCESS",
+      "messageId": "<c4cceab1-142d-c73d-93bc-92a4943233df@gmail.com>",
+      "timestamp": "2026-11-06T21:15:03.323Z"
+    },
+    {
+      "num": 94,
+      "sno": 46,
+      "name": "Aiman Bano",
+      "company": "Zyoin",
+      "email": "aiman.bano@zyoin.com",
+      "status": "SUCCESS",
+      "messageId": "<abb3989c-e944-599e-fc26-4970dce46338@gmail.com>",
+      "timestamp": "2026-11-06T21:15:10.081Z"
+    },
+    {
+      "num": 95,
+      "sno": 47,
+      "name": "Monali",
+      "company": "omniesolutions",
+      "email": "monali@omniesolutions.com",
+      "status": "SUCCESS",
+      "messageId": "<76cd886f-279f-246d-b64d-2518d913ea24@gmail.com>",
+      "timestamp": "2026-11-06T21:15:16.787Z"
+    },
+    {
+      "num": 96,
+      "sno": 48,
+      "name": "Hiring Team",
+      "company": "foundit.ai",
+      "email": "applications.zuno@foundit.ai",
+      "status": "SUCCESS",
+      "messageId": "<d692ae8b-7788-e1e9-d7a7-78b40305bbfe@gmail.com>",
+      "timestamp": "2026-11-06T21:15:22.235Z"
+    },
+    {
+      "num": 98,
+      "sno": 50,
+      "name": "Ashvatthverma",
+      "company": "India gold",
+      "email": "ashvatthverma@indiagold.co",
+      "status": "SUCCESS",
+      "messageId": "<a44762a8-6955-5a6a-62e1-e0e04a3f2ebb@gmail.com>",
+      "timestamp": "2026-11-06T21:15:28.851Z"
+    },
+    {
+      "num": 99,
+      "sno": 51,
+      "name": "Thetechxclub",
+      "company": "thetechxclub",
+      "email": "thetechxclub@gmail.com",
+      "status": "SUCCESS",
+      "messageId": "<6dbd128a-2142-8d00-e503-4c481493fc91@gmail.com>",
+      "timestamp": "2026-11-06T21:15:36.610Z"
+    },
+    {
+      "num": 100,
+      "sno": 52,
+      "name": "Hiring Team",
+      "company": "Indusface",
+      "email": "lavanya.k@indusface.com",
+      "status": "SUCCESS",
+      "messageId": "<2754af30-969a-d001-4f2f-432af1cd8b85@gmail.com>",
+      "timestamp": "2026-11-06T21:15:43.136Z"
+    }
+  ]
+}

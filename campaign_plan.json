@@ -1,0 +1,62 @@
+[
+  {
+    "day": "Monday",
+    "date": "2026-11-09",
+    "start": 101,
+    "end": 300,
+    "targetCount": 200,
+    "window": "09:00 AM - 11:00 AM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Tuesday",
+    "date": "2026-11-10",
+    "start": 301,
+    "end": 500,
+    "targetCount": 200,
+    "window": "09:00 AM - 11:00 AM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Wednesday",
+    "date": "2026-11-11",
+    "start": 501,
+    "end": 700,
+    "targetCount": 200,
+    "window": "09:00 AM - 11:00 AM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Thursday",
+    "date": "2026-11-12",
+    "start": 701,
+    "end": 900,
+    "targetCount": 200,
+    "window": "09:00 AM - 11:00 AM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Friday",
+    "date": "2026-11-13",
+    "start": 901,
+    "end": 1100,
+    "targetCount": 200,
+    "window": "09:00 AM - 11:00 AM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "sno": 1,
+    "name": "Kushal Vyas",
+    "company": "Humors Tech",
+    "email": "kushal@humorstech.com",
+    "status": "SUCCESS",
+    "messageId": "<23ddc522-03e1-2d12-6e3d-8abdced09f7c@gmail.com>",
+    "timestamp": "2026-11-06T20:47:42.104Z"
+  },
+  {
+    "sno": 2,
+    "name": "Jhenson A J",
+    "company": "Innoviti Technologies",
+    "email": "jhenson.j@innoviti.com",
+    "status": "SUCCESS",
+    "messageId": "<a672d7b2-ed02-1a48-f281-11c64a868a7c@gmail.com>",
+    "timestamp": "2026-11-06T20:47:48.757Z"
+  },
+  {
+    "sno": 3,
+    "name": "Jinu Jogy",
+    "company": "FutureIK Technologies",
+    "email": "jinu@futureik.com",
+    "status": "SUCCESS",
+    "messageId": "<4656e6f2-a929-5082-088a-32cb2470a8c0@gmail.com>",
+    "timestamp": "2026-11-06T20:47:55.194Z"
+  },
+  {
+    "sno": 4,
+    "name": "Nancy Gupta",
+    "company": "SatSure",
+    "email": "nancy@satsure.co",
+    "status": "SUCCESS",
+    "messageId": "<069b0ee7-133e-1be2-6097-b9cebd0bfb79@gmail.com>",
+    "timestamp": "2026-11-06T20:48:01.754Z"
+  },
+  {
+    "sno": 5,
+    "name": "Prachi Kulkarni",
+    "company": "Rapid Circle",
+    "email": "prachi.kulkarni-aradhye@rapidcircle.com",
+    "status": "SUCCESS",
+    "messageId": "<821dc7d3-86d2-e1cb-56b7-0ab715ac7731@gmail.com>",
+    "timestamp": "2026-11-06T20:48:08.176Z"
+  },
+  {
+    "sno": 6,
+    "name": "Swati Hota",
+    "company": "Niyo Solutions",
+    "email": "swati.hota@goniyo.com",
+    "status": "SUCCESS",
+    "messageId": "<405104c2-1636-b120-10b0-ef7bb777e3e1@gmail.com>",
+    "timestamp": "2026-11-06T20:48:14.916Z"
+  },
+  {
+    "sno": 7,
+    "name": "Jeevitha Mohan",
+    "company": "Mirrar Technologies",
+    "email": "jeevitha.m@mirrar.com",
+    "status": "SUCCESS",
+    "messageId": "<1f6334b9-93dc-e30d-7771-f07f45835959@gmail.com>",
+    "timestamp": "2026-11-06T20:48:21.381Z"
+  },
+  {
+    "sno": 8,
+    "name": "Avinash Pakhre",
+    "company": "Ola",
+    "email": "avinash.pakhre@olacabs.com",
+    "status": "SUCCESS",
+    "messageId": "<00d548b5-131e-53ae-2afb-784798c288cf@gmail.com>",
+    "timestamp": "2026-11-06T20:48:28.683Z"
+  },
+  {
+    "sno": 9,
+    "name": "Trishna",
+    "company": "Netcore Cloud",
+    "email": "trishna.badanapurkar@netcorecloud.com",
+    "status": "SUCCESS",
+    "messageId": "<e66cd07f-96a2-6e38-c66e-c0eb266652f2@gmail.com>",
+    "timestamp": "2026-11-06T20:48:35.337Z"
+  },
+  {
+    "sno": 10,
+    "name": "Shyama Ajith",
+    "company": "Razorpay",
+    "email": "shyama.a@razorpay.com",
+    "status": "SUCCESS",
+    "messageId": "<ebdbfcc5-1b23-e229-38cc-c87549ad8486@gmail.com>",
+    "timestamp": "2026-11-06T20:48:40.764Z"
+  }
+]
