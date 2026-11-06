@@ -62,3 +62,4 @@ jobs:
             git commit -m "chore: update campaign delivery status & logs [skip ci]"
             git push
           fi
+
