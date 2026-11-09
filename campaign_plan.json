@@ -6,10 +6,12 @@
     "end": 301,
     "targetCount": 200,
     "window": "09:00 AM - 11:00 AM IST",
-    "status": "PENDING",
-    "sentCount": 0,
+    "status": "COMPLETED",
+    "sentCount": 200,
     "failedCount": 0,
-    "logFile": null
+    "logFile": "batch_102_to_301_2026-11-09.json",
+    "startedAt": "2026-11-09T11:58:20.858Z",
+    "completedAt": "2026-11-09T13:54:30.696Z"
   },
   {
     "day": "Tuesday",
