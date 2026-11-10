@@ -20,10 +20,12 @@
     "end": 501,
     "targetCount": 200,
     "window": "09:00 AM - 11:00 AM IST",
-    "status": "PENDING",
-    "sentCount": 0,
-    "failedCount": 0,
-    "logFile": null
+    "status": "COMPLETED_WITH_ERRORS",
+    "sentCount": 199,
+    "failedCount": 1,
+    "logFile": "batch_302_to_501_2026-11-10.json",
+    "startedAt": "2026-11-10T11:34:03.228Z",
+    "completedAt": "2026-11-10T13:37:07.613Z"
   },
   {
     "day": "Wednesday",
