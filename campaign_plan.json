@@ -34,10 +34,12 @@
     "end": 700,
     "targetCount": 200,
     "window": "09:00 AM - 11:00 AM IST",
-    "status": "PENDING",
-    "sentCount": 0,
+    "status": "COMPLETED",
+    "sentCount": 200,
     "failedCount": 0,
-    "logFile": null
+    "logFile": "batch_501_to_700_2026-11-11.json",
+    "startedAt": "2026-11-11T11:22:02.682Z",
+    "completedAt": "2026-11-11T13:21:00.205Z"
   },
   {
     "day": "Thursday",
