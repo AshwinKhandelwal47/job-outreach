@@ -68,5 +68,65 @@
     "logFile": "batch_901_to_1100_2026-11-13.json",
     "startedAt": "2026-11-13T11:24:45.071Z",
     "completedAt": "2026-11-13T13:16:20.646Z"
+  },
+  {
+    "day": "Monday",
+    "date": "2026-11-16",
+    "start": 1101,
+    "end": 1300,
+    "targetCount": 200,
+    "window": "09:00 AM - 12:00 PM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Tuesday",
+    "date": "2026-11-17",
+    "start": 1301,
+    "end": 1500,
+    "targetCount": 200,
+    "window": "09:00 AM - 12:00 PM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Wednesday",
+    "date": "2026-11-18",
+    "start": 1501,
+    "end": 1700,
+    "targetCount": 200,
+    "window": "09:00 AM - 12:00 PM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Thursday",
+    "date": "2026-11-19",
+    "start": 1701,
+    "end": 1900,
+    "targetCount": 200,
+    "window": "09:00 AM - 12:00 PM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
+  },
+  {
+    "day": "Friday",
+    "date": "2026-11-20",
+    "start": 1901,
+    "end": 2100,
+    "targetCount": 200,
+    "window": "09:00 AM - 12:00 PM IST",
+    "status": "PENDING",
+    "sentCount": 0,
+    "failedCount": 0,
+    "logFile": null
   }
 ]

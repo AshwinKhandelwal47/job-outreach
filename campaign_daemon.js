@@ -22,19 +22,22 @@ cron.schedule(
   '0 9 * * 1-5',
   async () => {
     const now = new Date();
-    const todayStr = now.toISOString().slice(0, 10);
-    console.log(`\n⏰ [CRON TRIGGER] 09:00 AM reached on ${todayStr}!`);
+    const todayStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(now);
+    console.log(`\n⏰ [CRON TRIGGER] 09:00 AM reached on ${todayStr} IST!`);
 
     const currentPlan = loadPlan();
-    const todayBatch = currentPlan.find((p) => p.date === todayStr);
+    let todayBatch = currentPlan.find((p) => p.date === todayStr);
 
-    if (!todayBatch) {
-      console.log(`No scheduled batch configured for date: ${todayStr}.`);
-      return;
+    if (!todayBatch || todayBatch.status === 'COMPLETED') {
+      const pendingBatch = currentPlan.find((p) => p.status === 'PENDING');
+      if (pendingBatch) {
+        console.log(`Using next available pending batch for ${pendingBatch.day} (${pendingBatch.date}): #${pendingBatch.start} to #${pendingBatch.end}`);
+        todayBatch = pendingBatch;
+      }
     }
 
-    if (todayBatch.status === 'COMPLETED') {
-      console.log(`Batch for ${todayStr} (#${todayBatch.start}-#${todayBatch.end}) has already been completed. Skipping.`);
+    if (!todayBatch || todayBatch.status === 'COMPLETED') {
+      console.log(`No pending scheduled batch found for date: ${todayStr}.`);
       return;
     }
 

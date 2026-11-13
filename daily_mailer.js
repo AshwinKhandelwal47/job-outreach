@@ -138,11 +138,11 @@ async function executeBatch(batchConfig = {}) {
     return;
   }
 
-  // Calculate safe delay: default distributes over ~100-115 minutes (approx 32-36s per email)
-  const defaultDelayMs = Math.floor(Math.random() * 4000) + 32000; // 32 to 36 seconds
+  // Calculate safe delay for 9:00 AM - 12:00 PM IST (3-hour window for 200 emails = ~48-54s delay)
+  const defaultDelayMs = Math.floor(Math.random() * 6000) + 48000; // 48 to 54 seconds
   const actualDelayMs = delaySeconds !== null ? delaySeconds * 1000 : defaultDelayMs;
 
-  console.log(`Delay between emails: ${(actualDelayMs / 1000).toFixed(1)} seconds`);
+  console.log(`Delay between emails: ${(actualDelayMs / 1000).toFixed(1)} seconds (distributing over 9:00 AM – 12:00 PM IST)`);
 
   const user = process.env.GMAIL_USER.trim();
   const pass = process.env.GMAIL_APP_PASSWORD.replace(/\s+/g, '');
@@ -291,11 +291,21 @@ if (require.main === module) {
   }
 
   if (runToday) {
-    const todayStr = new Date().toISOString().slice(0, 10);
+    const todayStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(new Date());
     const plan = loadPlan();
-    const todayBatch = plan.find((p) => p.date === todayStr);
-    if (!todayBatch) {
-      console.log(`No scheduled batch found for today (${todayStr}).`);
+    let todayBatch = plan.find((p) => p.date === todayStr);
+
+    // If today is already completed or not found, fall back to next PENDING batch
+    if (!todayBatch || todayBatch.status === 'COMPLETED') {
+      const pendingBatch = plan.find((p) => p.status === 'PENDING');
+      if (pendingBatch) {
+        console.log(`Using next pending batch for ${pendingBatch.day} (${pendingBatch.date}): #${pendingBatch.start} to #${pendingBatch.end}`);
+        todayBatch = pendingBatch;
+      }
+    }
+
+    if (!todayBatch || todayBatch.status === 'COMPLETED') {
+      console.log(`No pending scheduled batch found for today (${todayStr}).`);
       process.exit(0);
     }
     start = todayBatch.start;

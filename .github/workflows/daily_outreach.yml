@@ -2,8 +2,16 @@ name: Daily Job Outreach Dispatcher
 
 on:
   schedule:
-    # 03:30 UTC = 09:00 AM IST (Monday to Friday: 1-5)
-    - cron: '30 3 * * 1-5'
+    # 03:15 UTC = 08:45 AM IST (Monday to Friday: 1-5)
+    - cron: '15 3 * * 1-5'
+    # 03:45 UTC = 09:15 AM IST backup trigger
+    - cron: '45 3 * * 1-5'
+    # 04:15 UTC = 09:45 AM IST backup trigger
+    - cron: '15 4 * * 1-5'
+
+  # Allows external webhook / cron-job.org triggers with 0 delay
+  repository_dispatch:
+    types: [run-daily-outreach]
 
   # Allows manual triggering anytime from GitHub UI (Actions tab)
   workflow_dispatch:
@@ -37,7 +45,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Daily Outreach Batch (9:00 AM - 11:00 AM IST)
+      - name: Run Daily Outreach Batch (9:00 AM - 12:00 PM IST)
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -46,7 +54,7 @@ jobs:
             echo "Running custom batch: Start ${{ github.event.inputs.customStart }}, Count ${{ github.event.inputs.customCount }}"
             node daily_mailer.js --start ${{ github.event.inputs.customStart }} --count ${{ github.event.inputs.customCount }}
           else
-            echo "Running scheduled batch for today's date..."
+            echo "Running scheduled batch for today's date (9:00 AM - 12:00 PM IST window)..."
             node daily_mailer.js --today
           fi
 
