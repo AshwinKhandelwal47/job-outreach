@@ -76,10 +76,12 @@
     "end": 1300,
     "targetCount": 200,
     "window": "09:00 AM - 12:00 PM IST",
-    "status": "PENDING",
-    "sentCount": 0,
+    "status": "COMPLETED",
+    "sentCount": 200,
     "failedCount": 0,
-    "logFile": null
+    "logFile": "batch_1101_to_1300_2026-11-16.json",
+    "startedAt": "2026-11-16T11:31:50.784Z",
+    "completedAt": "2026-11-16T14:31:51.284Z"
   },
   {
     "day": "Tuesday",
