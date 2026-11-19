@@ -1,0 +1,2002 @@
+[
+  {
+    "num": 1701,
+    "sno": 1024,
+    "name": "Priya Bagla",
+    "company": "Fullestop",
+    "email": "priya.bagla@fullestop.com",
+    "status": "SUCCESS",
+    "messageId": "<1dd4edfd-7d4c-bfb8-93c3-f54fbe836c9f@gmail.com>",
+    "timestamp": "2026-11-19T11:47:29.269Z"
+  },
+  {
+    "num": 1702,
+    "sno": 1025,
+    "name": "Priya Bhogineni",
+    "company": "Yexle",
+    "email": "priya.bhogineni@yexle.com",
+    "status": "SUCCESS",
+    "messageId": "<1a3ae5b9-f33b-26a5-f1af-ce73cb670265@gmail.com>",
+    "timestamp": "2026-11-19T11:48:19.433Z"
+  },
+  {
+    "num": 1703,
+    "sno": 1026,
+    "name": "Priya Malhotra",
+    "company": "Daffodil Software",
+    "email": "priya.malhotra@daffodilsw.com",
+    "status": "SUCCESS",
+    "messageId": "<837ff7da-acaa-dc65-9506-f71de61f52e6@gmail.com>",
+    "timestamp": "2026-11-19T11:49:09.508Z"
+  },
+  {
+    "num": 1704,
+    "sno": 1027,
+    "name": "Priya Malhotra",
+    "company": "Flexasoft",
+    "email": "priya@flexasoft.com",
+    "status": "SUCCESS",
+    "messageId": "<ef324f14-6ba4-6561-4afa-465eeb7b8bd4@gmail.com>",
+    "timestamp": "2026-11-19T11:49:59.896Z"
+  },
+  {
+    "num": 1705,
+    "sno": 1028,
+    "name": "Priya Nair",
+    "company": "Congruent Info-Tech",
+    "email": "priya@congruentindia.com",
+    "status": "SUCCESS",
+    "messageId": "<6cde8523-a52b-fa39-b7f1-6841be7160c5@gmail.com>",
+    "timestamp": "2026-11-19T11:50:50.163Z"
+  },
+  {
+    "num": 1706,
+    "sno": 1029,
+    "name": "Priya Subramanian",
+    "company": "Talview",
+    "email": "priya.subramanian@talview.com",
+    "status": "SUCCESS",
+    "messageId": "<5b54752e-140a-26c0-9854-59b12d808785@gmail.com>",
+    "timestamp": "2026-11-19T11:51:40.373Z"
+  },
+  {
+    "num": 1707,
+    "sno": 1030,
+    "name": "Priya Surana",
+    "company": "Junglee Games",
+    "email": "priya@jungleegames.com",
+    "status": "SUCCESS",
+    "messageId": "<5b955cc1-595f-6947-4503-eba1829a6fca@gmail.com>",
+    "timestamp": "2026-11-19T11:52:30.431Z"
+  },
+  {
+    "num": 1708,
+    "sno": 1031,
+    "name": "Priya Tyagi",
+    "company": "Quartic.ai",
+    "email": "priya@quartic.ai",
+    "status": "SUCCESS",
+    "messageId": "<424d5d42-7fb7-2f7a-69d5-e8c16bea8e6f@gmail.com>",
+    "timestamp": "2026-11-19T11:53:20.779Z"
+  },
+  {
+    "num": 1709,
+    "sno": 1032,
+    "name": "Priyadarshini Kachroo",
+    "company": "Tata CLiQ",
+    "email": "priyadarshini@tatacliq.com",
+    "status": "SUCCESS",
+    "messageId": "<2acffe9d-c828-2e9c-303e-d2143bec7450@gmail.com>",
+    "timestamp": "2026-11-19T11:54:10.947Z"
+  },
+  {
+    "num": 1710,
+    "sno": 1033,
+    "name": "Priyadarshini Torke",
+    "company": "JobsForHer",
+    "email": "priyadarshini.torke@jobsforher.com",
+    "status": "SUCCESS",
+    "messageId": "<5d43b333-f11a-bec6-71f0-ec3898cf06b8@gmail.com>",
+    "timestamp": "2026-11-19T11:55:01.051Z"
+  },
+  {
+    "num": 1711,
+    "sno": 1034,
+    "name": "Priyanka Basak",
+    "company": "CBNITS",
+    "email": "priyanka.basak@cbnits.com",
+    "status": "SUCCESS",
+    "messageId": "<cdbedcff-6215-75e8-d0eb-44958a8b1705@gmail.com>",
+    "timestamp": "2026-11-19T11:55:51.734Z"
+  },
+  {
+    "num": 1712,
+    "sno": 1035,
+    "name": "Priyanka Grover",
+    "company": "fifthnote",
+    "email": "priyanka.grover@fifthnote.co",
+    "status": "SUCCESS",
+    "messageId": "<d6f65a93-e148-e079-9185-e41750e7201f@gmail.com>",
+    "timestamp": "2026-11-19T11:56:41.892Z"
+  },
+  {
+    "num": 1713,
+    "sno": 1036,
+    "name": "Priyanka Jaiswal",
+    "company": "Paktolus Solutions",
+    "email": "pjaiswal@paktolus.com",
+    "status": "SUCCESS",
+    "messageId": "<f4f69c98-02a2-e09d-cde9-27038350aac2@gmail.com>",
+    "timestamp": "2026-11-19T11:57:32.149Z"
+  },
+  {
+    "num": 1714,
+    "sno": 1037,
+    "name": "Priyanka Madhala",
+    "company": "Chimera Technologies",
+    "email": "priyankam@chimeratechnologies.com",
+    "status": "SUCCESS",
+    "messageId": "<f11e5a10-2b64-9c19-7df3-68ca495ae3bb@gmail.com>",
+    "timestamp": "2026-11-19T11:58:22.458Z"
+  },
+  {
+    "num": 1715,
+    "sno": 1038,
+    "name": "Priyanka Priyadarshini",
+    "company": "Monster India",
+    "email": "priyanka.priyadarshini@hcl.com",
+    "status": "SUCCESS",
+    "messageId": "<b2c6b2e0-a523-40c9-b925-cdf0e761c4d6@gmail.com>",
+    "timestamp": "2026-11-19T11:59:12.756Z"
+  },
+  {
+    "num": 1716,
+    "sno": 1039,
+    "name": "Priyanka Roy",
+    "company": "Freshersworld.com",
+    "email": "priyanka@freshersworld.com",
+    "status": "SUCCESS",
+    "messageId": "<f6c03209-e14f-84cd-0239-9e9b3591bfc4@gmail.com>",
+    "timestamp": "2026-11-19T12:00:02.926Z"
+  },
+  {
+    "num": 1717,
+    "sno": 1040,
+    "name": "Priyanka Sharma",
+    "company": "Decimal Technologies",
+    "email": "priyanka.s@decimaltech.com",
+    "status": "SUCCESS",
+    "messageId": "<5c2b03e5-e307-9750-cd49-4b48e8da9a51@gmail.com>",
+    "timestamp": "2026-11-19T12:00:53.184Z"
+  },
+  {
+    "num": 1718,
+    "sno": 1041,
+    "name": "Priyanka Shukla",
+    "company": "Flock",
+    "email": "priyankashu@flock.com",
+    "status": "SUCCESS",
+    "messageId": "<40c38cd5-702b-dcf3-fbb8-5cd503d337c1@gmail.com>",
+    "timestamp": "2026-11-19T12:01:43.341Z"
+  },
+  {
+    "num": 1719,
+    "sno": 1042,
+    "name": "Priyom Barooah",
+    "company": "KritiKal Solutions",
+    "email": "priyom.barooah@kritikalvision.ai",
+    "status": "SUCCESS",
+    "messageId": "<614e4c88-5c32-083e-4272-df8d99356e76@gmail.com>",
+    "timestamp": "2026-11-19T12:02:33.486Z"
+  },
+  {
+    "num": 1720,
+    "sno": 1043,
+    "name": "Prof Chro",
+    "company": "ONE BCG",
+    "email": "prof.dutt@onebcg.com",
+    "status": "SUCCESS",
+    "messageId": "<3add3ad0-ef6c-f602-4adf-646a56f1b538@gmail.com>",
+    "timestamp": "2026-11-19T12:03:23.738Z"
+  },
+  {
+    "num": 1721,
+    "sno": 1044,
+    "name": "Pronami Borah",
+    "company": "TravClan",
+    "email": "pronami.borah@travclan.com",
+    "status": "SUCCESS",
+    "messageId": "<315401ac-2cbc-56a9-d439-c47655030e54@gmail.com>",
+    "timestamp": "2026-11-19T12:04:13.918Z"
+  },
+  {
+    "num": 1722,
+    "sno": 1045,
+    "name": "Puja Gupta",
+    "company": "Affle",
+    "email": "puja@affle.com",
+    "status": "SUCCESS",
+    "messageId": "<879d824d-23af-e746-7b9f-4e9da4efca1b@gmail.com>",
+    "timestamp": "2026-11-19T12:05:03.992Z"
+  },
+  {
+    "num": 1723,
+    "sno": 1046,
+    "name": "Punitha Nagarajan",
+    "company": "Zuci Systems",
+    "email": "punitha.n@zucisystems.com",
+    "status": "SUCCESS",
+    "messageId": "<2e312508-cf63-d521-194e-2dc4eac4ae0d@gmail.com>",
+    "timestamp": "2026-11-19T12:05:54.211Z"
+  },
+  {
+    "num": 1724,
+    "sno": 1047,
+    "name": "Purva Pandit",
+    "company": "Zenoti",
+    "email": "purvap@zenoti.com",
+    "status": "SUCCESS",
+    "messageId": "<172f5646-2552-bda3-bbe2-f13fb6716a40@gmail.com>",
+    "timestamp": "2026-11-19T12:06:44.647Z"
+  },
+  {
+    "num": 1725,
+    "sno": 1048,
+    "name": "Pushpendra Yadav",
+    "company": "Cynet Systems Inc",
+    "email": "pushpendra.y@cynetsystems.com",
+    "status": "SUCCESS",
+    "messageId": "<2f83ee58-90f5-58a4-65f5-adeb6ff61444@gmail.com>",
+    "timestamp": "2026-11-19T12:07:35.351Z"
+  },
+  {
+    "num": 1726,
+    "sno": 1049,
+    "name": "Pushpinder Singh",
+    "company": "SE2",
+    "email": "pushpinder.singh@se2.com",
+    "status": "SUCCESS",
+    "messageId": "<80eba40c-4fed-7ddc-ab77-78743a424b1f@gmail.com>",
+    "timestamp": "2026-11-19T12:08:25.432Z"
+  },
+  {
+    "num": 1727,
+    "sno": 1050,
+    "name": "Rabi Agrawal",
+    "company": "FloBiz",
+    "email": "rabi@flobiz.in",
+    "status": "SUCCESS",
+    "messageId": "<6c15bae1-8d04-bfef-8a16-098c8f4b630a@gmail.com>",
+    "timestamp": "2026-11-19T12:09:15.584Z"
+  },
+  {
+    "num": 1728,
+    "sno": 1051,
+    "name": "Radhakrishna K",
+    "company": "SpanIdea Systems",
+    "email": "radhakrishnak@spanidea.com",
+    "status": "SUCCESS",
+    "messageId": "<e92da424-e20c-1cc2-f401-96d5141aa2c4@gmail.com>",
+    "timestamp": "2026-11-19T12:10:05.806Z"
+  },
+  {
+    "num": 1729,
+    "sno": 1052,
+    "name": "Radhakrishnan Nair",
+    "company": "SunTec Business Solutions",
+    "email": "r.nair@suntecgroup.com",
+    "status": "SUCCESS",
+    "messageId": "<2b49a8a8-a61c-10ec-4bce-d528a27cb691@gmail.com>",
+    "timestamp": "2026-11-19T12:10:55.953Z"
+  },
+  {
+    "num": 1730,
+    "sno": 1053,
+    "name": "Radhika Boppana",
+    "company": "Blackstraw.ai",
+    "email": "radhika.boppana@blackstraw.ai",
+    "status": "SUCCESS",
+    "messageId": "<2e6717f8-2396-f2dc-4de1-bf01c6be92a2@gmail.com>",
+    "timestamp": "2026-11-19T12:11:46.378Z"
+  },
+  {
+    "num": 1731,
+    "sno": 1054,
+    "name": "Radhika Khurana",
+    "company": "Impact Analytics",
+    "email": "radhika.khurana@impactanalytics.co",
+    "status": "SUCCESS",
+    "messageId": "<726cc7c7-fb6a-bccf-9ecd-22441be99163@gmail.com>",
+    "timestamp": "2026-11-19T12:12:36.796Z"
+  },
+  {
+    "num": 1732,
+    "sno": 1055,
+    "name": "Raghava Krishna",
+    "company": "Brane Enterprises",
+    "email": "raghava.krishna@nslhub.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405a873a3sm2380723a91.16 - gsmtp",
+    "timestamp": "2026-11-19T12:13:26.462Z"
+  },
+  {
+    "num": 1733,
+    "sno": 1056,
+    "name": "Raghavendra",
+    "company": "SysCloud",
+    "email": "raghavendra@syscloud.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-8c5cac8fe3csm2736316b3a.21 - gsmtp",
+    "timestamp": "2026-11-19T12:14:18.513Z"
+  },
+  {
+    "num": 1734,
+    "sno": 1057,
+    "name": "Raghavendra Mesta",
+    "company": "Fidelis Corporate Solutions",
+    "email": "raghavendra@fidelisgroup.in",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405d6349bsm2608444a91.9 - gsmtp",
+    "timestamp": "2026-11-19T12:15:08.131Z"
+  },
+  {
+    "num": 1735,
+    "sno": 1058,
+    "name": "Raghunath Gawde",
+    "company": "Softcell Technologies Global",
+    "email": "rgawde@softcell.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405ab9d89sm2637786a91.17 - gsmtp",
+    "timestamp": "2026-11-19T12:15:57.735Z"
+  },
+  {
+    "num": 1736,
+    "sno": 1059,
+    "name": "Ragini Mahapatra",
+    "company": "Seanergy Digital",
+    "email": "ragini.m@seanergydigital.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-8c5cad867edsm2726633b3a.24 - gsmtp",
+    "timestamp": "2026-11-19T12:16:48.782Z"
+  },
+  {
+    "num": 1737,
+    "sno": 1060,
+    "name": "Rahul Agrawal",
+    "company": "Softpath System",
+    "email": "rahul.a@softpath.net",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde53487f03sm1639993a12.16 - gsmtp",
+    "timestamp": "2026-11-19T12:17:38.743Z"
+  },
+  {
+    "num": 1738,
+    "sno": 1061,
+    "name": "Rahul Bansode",
+    "company": "Digital Refresh Networks",
+    "email": "rahul.bansode@digitalf5.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405ecb486sm2506857a91.16 - gsmtp",
+    "timestamp": "2026-11-19T12:18:28.383Z"
+  },
+  {
+    "num": 1739,
+    "sno": 1062,
+    "name": "Rahul Choudhury",
+    "company": "NTT DATA",
+    "email": "rahul@netmagicsolutions.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2f0321d391asm6341165ad.61 - gsmtp",
+    "timestamp": "2026-11-19T12:19:18.061Z"
+  },
+  {
+    "num": 1740,
+    "sno": 1063,
+    "name": "Rahul Inamdar",
+    "company": "InfraCloud Technologies",
+    "email": "rahul.inamdar@infracloud.io",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff6214cd8sm30131195ad.44 - gsmtp",
+    "timestamp": "2026-11-19T12:20:07.747Z"
+  },
+  {
+    "num": 1741,
+    "sno": 1064,
+    "name": "Rahul Vishwanatham",
+    "company": "Vaave",
+    "email": "rahul.vishawantham@vaave.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405ab9d89sm2657046a91.17 - gsmtp",
+    "timestamp": "2026-11-19T12:20:57.664Z"
+  },
+  {
+    "num": 1742,
+    "sno": 1065,
+    "name": "Raj Abubakkar",
+    "company": "your startup",
+    "email": "rabubakkar@amrepinspect.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b40593719esm2631362a91.13 - gsmtp",
+    "timestamp": "2026-11-19T12:21:47.550Z"
+  },
+  {
+    "num": 1743,
+    "sno": 1066,
+    "name": "Raj Agarwal",
+    "company": "360 Degree Cloud Technologies",
+    "email": "raj.agarwal@360degreecloud.in",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff6181415sm29752925ad.30 - gsmtp",
+    "timestamp": "2026-11-19T12:22:37.196Z"
+  },
+  {
+    "num": 1744,
+    "sno": 1067,
+    "name": "Raj Bose",
+    "company": "Avataar.Me",
+    "email": "rajbose@avataar.me",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-8c6660c2faesm2379204b3a.30 - gsmtp",
+    "timestamp": "2026-11-19T12:23:26.835Z"
+  },
+  {
+    "num": 1745,
+    "sno": 1068,
+    "name": "Raj Kish",
+    "company": "Selectsys India",
+    "email": "r.kish@selectsys.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b4057af4e2sm2619256a91.7 - gsmtp",
+    "timestamp": "2026-11-19T12:24:16.453Z"
+  },
+  {
+    "num": 1746,
+    "sno": 1069,
+    "name": "Raja Pamidi",
+    "company": "NTT DATA",
+    "email": "raja.pamidi@nttdata.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff6246213sm30369005ad.56 - gsmtp",
+    "timestamp": "2026-11-19T12:25:06.196Z"
+  },
+  {
+    "num": 1747,
+    "sno": 1070,
+    "name": "Rajagopal",
+    "company": "Antra",
+    "email": "rajagopal@antra.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405ffa98esm2548940a91.17 - gsmtp",
+    "timestamp": "2026-11-19T12:25:55.952Z"
+  },
+  {
+    "num": 1748,
+    "sno": 1071,
+    "name": "Rajani Patel",
+    "company": "Resilience InfoTech",
+    "email": "rajanip@resilienceitusa.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2f03c4f3bd8sm809475ad.16 - gsmtp",
+    "timestamp": "2026-11-19T12:26:45.595Z"
+  },
+  {
+    "num": 1749,
+    "sno": 1072,
+    "name": "Rajani Siddhartha",
+    "company": "DreamOrbit",
+    "email": "rajani.siddhartha@dreamorbit.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b402981814sm1312834a91.2 - gsmtp",
+    "timestamp": "2026-11-19T12:27:35.267Z"
+  },
+  {
+    "num": 1750,
+    "sno": 1073,
+    "name": "Rajashree Mahajan",
+    "company": "Xangars Solutions",
+    "email": "m.rajashree@xangars.com",
+    "status": "SUCCESS",
+    "messageId": "<52f59ef3-414a-ed60-52c8-3420905a891d@gmail.com>",
+    "timestamp": "2026-11-19T12:28:26.062Z"
+  },
+  {
+    "num": 1751,
+    "sno": 1074,
+    "name": "Rajat Bansal",
+    "company": "Damco Solutions",
+    "email": "rajatb@damcogroup.com",
+    "status": "SUCCESS",
+    "messageId": "<d8510773-dc8e-56c0-26f1-cbbb3eae76f8@gmail.com>",
+    "timestamp": "2026-11-19T12:29:16.165Z"
+  },
+  {
+    "num": 1752,
+    "sno": 1075,
+    "name": "Rajat Das",
+    "company": "OnDemand Agility Solutions",
+    "email": "rajat.das@ondemandagility.com",
+    "status": "SUCCESS",
+    "messageId": "<267403be-497b-b7b3-8247-6d84dd2ef19f@gmail.com>",
+    "timestamp": "2026-11-19T12:30:06.365Z"
+  },
+  {
+    "num": 1753,
+    "sno": 1076,
+    "name": "Rajat Mehra",
+    "company": "NxtGen Infinite Datacenter",
+    "email": "rajat.mehra@nxtgen.com",
+    "status": "SUCCESS",
+    "messageId": "<fb6f99a4-4c28-c1dd-f57f-03206108c1c9@gmail.com>",
+    "timestamp": "2026-11-19T12:30:56.493Z"
+  },
+  {
+    "num": 1754,
+    "sno": 1077,
+    "name": "Rajeeb Biswas",
+    "company": "Q3 Technologies",
+    "email": "rajeeb@q3tech.com",
+    "status": "SUCCESS",
+    "messageId": "<c5f31c20-8bd1-4886-2bd3-67054bffcf1e@gmail.com>",
+    "timestamp": "2026-11-19T12:31:46.603Z"
+  },
+  {
+    "num": 1755,
+    "sno": 1078,
+    "name": "Rajeev Bhardwaj",
+    "company": "Sun Life",
+    "email": "rajeev.bhardwaj@sunlife.com",
+    "status": "SUCCESS",
+    "messageId": "<1a72da64-2a3c-80e0-9723-037e87354009@gmail.com>",
+    "timestamp": "2026-11-19T12:32:36.690Z"
+  },
+  {
+    "num": 1756,
+    "sno": 1079,
+    "name": "Rajeev S",
+    "company": "Algonomy",
+    "email": "rajeev.s@algonomy.com",
+    "status": "SUCCESS",
+    "messageId": "<3e5f9e8d-7339-489b-5988-9859fcef8191@gmail.com>",
+    "timestamp": "2026-11-19T12:33:26.897Z"
+  },
+  {
+    "num": 1757,
+    "sno": 1080,
+    "name": "Rajeev Sen",
+    "company": "Medline India",
+    "email": "rsen@medline.com",
+    "status": "SUCCESS",
+    "messageId": "<72686116-f297-12ae-f270-fd65c0cba01f@gmail.com>",
+    "timestamp": "2026-11-19T12:34:17.112Z"
+  },
+  {
+    "num": 1758,
+    "sno": 1081,
+    "name": "Rajendra Bn",
+    "company": "EXILANT Technologies",
+    "email": "rajendra.bn@exilant.com",
+    "status": "SUCCESS",
+    "messageId": "<6d2cd131-4db4-4e6e-fc2a-89f7706f6da0@gmail.com>",
+    "timestamp": "2026-11-19T12:35:07.248Z"
+  },
+  {
+    "num": 1759,
+    "sno": 1082,
+    "name": "Rajesh",
+    "company": "TechAffinity",
+    "email": "rajeshn@techaffinity.com",
+    "status": "SUCCESS",
+    "messageId": "<8051810d-97ea-21fc-0bcb-e9dbd53e0182@gmail.com>",
+    "timestamp": "2026-11-19T12:35:57.402Z"
+  },
+  {
+    "num": 1760,
+    "sno": 1083,
+    "name": "Rajesh A",
+    "company": "Dremio",
+    "email": "rajesh@dremio.com",
+    "status": "SUCCESS",
+    "messageId": "<e4d20d1a-19ab-3e08-9d69-26b92adae2e0@gmail.com>",
+    "timestamp": "2026-11-19T12:36:47.525Z"
+  },
+  {
+    "num": 1761,
+    "sno": 1084,
+    "name": "Rajesh Babu",
+    "company": "Softobiz Technologies",
+    "email": "rajesh.babu@softobiz.com",
+    "status": "SUCCESS",
+    "messageId": "<2bc1138a-c4b4-42f0-bc31-218ddf5a5433@gmail.com>",
+    "timestamp": "2026-11-19T12:37:38.040Z"
+  },
+  {
+    "num": 1762,
+    "sno": 1085,
+    "name": "Rajesh Balasubramanian",
+    "company": "CoffeeBeans Consulting",
+    "email": "rajeshb@coffeebeans.io",
+    "status": "SUCCESS",
+    "messageId": "<2bcc7443-02bf-5356-e909-9c1c5970d8be@gmail.com>",
+    "timestamp": "2026-11-19T12:38:28.159Z"
+  },
+  {
+    "num": 1763,
+    "sno": 1086,
+    "name": "Rajesh Kethepalle",
+    "company": "ElectrifAi",
+    "email": "rajesh.kethepalle@electrifai.net",
+    "status": "SUCCESS",
+    "messageId": "<aa97db2a-465e-3a15-6924-3a449d85151c@gmail.com>",
+    "timestamp": "2026-11-19T12:39:18.520Z"
+  },
+  {
+    "num": 1764,
+    "sno": 1087,
+    "name": "Rajesh Malhotra",
+    "company": "Damco Solutions",
+    "email": "rajeshm@damcogroup.com",
+    "status": "SUCCESS",
+    "messageId": "<c6280a31-5eab-f9c3-16db-63a9cc8ee943@gmail.com>",
+    "timestamp": "2026-11-19T12:40:08.780Z"
+  },
+  {
+    "num": 1765,
+    "sno": 1088,
+    "name": "Rajesh Vadakevetil",
+    "company": "Fission Labs",
+    "email": "rajesh@fissionlabs.com",
+    "status": "SUCCESS",
+    "messageId": "<029d9fb3-4f40-4fe2-dbc2-ae73ff84937d@gmail.com>",
+    "timestamp": "2026-11-19T12:40:59.063Z"
+  },
+  {
+    "num": 1766,
+    "sno": 1089,
+    "name": "Rajesh Yadav",
+    "company": "Goods And Services Tax Network",
+    "email": "rajesh.yadav@gstn.org.in",
+    "status": "SUCCESS",
+    "messageId": "<f4fecc6c-89a8-5602-073d-914bfe6f3390@gmail.com>",
+    "timestamp": "2026-11-19T12:41:49.135Z"
+  },
+  {
+    "num": 1767,
+    "sno": 1090,
+    "name": "Rajitha Jaffer",
+    "company": "JMR Infotech",
+    "email": "rajitha.jaffer@jmrinfotech.com",
+    "status": "SUCCESS",
+    "messageId": "<871a7999-7684-62be-0ff7-bafe3e912629@gmail.com>",
+    "timestamp": "2026-11-19T12:42:39.305Z"
+  },
+  {
+    "num": 1768,
+    "sno": 1091,
+    "name": "Rajiv Kumar",
+    "company": "Cendyn",
+    "email": "rkumar@cendyn.com",
+    "status": "SUCCESS",
+    "messageId": "<146fd374-b430-87f1-6b72-eb9e56286364@gmail.com>",
+    "timestamp": "2026-11-19T12:43:29.420Z"
+  },
+  {
+    "num": 1769,
+    "sno": 1092,
+    "name": "Rajneesh Malik",
+    "company": "Mindtickle",
+    "email": "rajneesh.malik@mindtickle.com",
+    "status": "SUCCESS",
+    "messageId": "<b5c5ed4b-c297-ce62-0347-2fe995979144@gmail.com>",
+    "timestamp": "2026-11-19T12:44:19.703Z"
+  },
+  {
+    "num": 1770,
+    "sno": 1093,
+    "name": "Rajni Bansal",
+    "company": "Growexx",
+    "email": "rajni@growexx.com",
+    "status": "SUCCESS",
+    "messageId": "<26d2ce82-6023-2606-0130-dae48fda06c6@gmail.com>",
+    "timestamp": "2026-11-19T12:45:09.831Z"
+  },
+  {
+    "num": 1771,
+    "sno": 1094,
+    "name": "Rajni Noronha",
+    "company": "CIGNEX Datamatics",
+    "email": "rajni.noronha@cignex.com",
+    "status": "SUCCESS",
+    "messageId": "<2d295895-ef6c-b8d8-d2b8-88a8aaf5899a@gmail.com>",
+    "timestamp": "2026-11-19T12:46:00.084Z"
+  },
+  {
+    "num": 1772,
+    "sno": 1095,
+    "name": "Rajni Singh",
+    "company": "Ind Innovation",
+    "email": "rajni.singh@indinnovation.com",
+    "status": "SUCCESS",
+    "messageId": "<1cc52b11-26d7-d23b-7654-8663a0fe3696@gmail.com>",
+    "timestamp": "2026-11-19T12:46:50.246Z"
+  },
+  {
+    "num": 1773,
+    "sno": 1096,
+    "name": "Rajsekhar Dangeti",
+    "company": "Zensark",
+    "email": "rajsekhar.dangeti@zensark.com",
+    "status": "SUCCESS",
+    "messageId": "<9b8ec71b-d853-954e-23e8-b4945e945b54@gmail.com>",
+    "timestamp": "2026-11-19T12:47:40.388Z"
+  },
+  {
+    "num": 1774,
+    "sno": 1097,
+    "name": "Raju Vatsavayi",
+    "company": "Nsight",
+    "email": "raju.vatsavayi@nsight-inc.com",
+    "status": "SUCCESS",
+    "messageId": "<2944bcfb-019a-9174-5d16-0568123cfe65@gmail.com>",
+    "timestamp": "2026-11-19T12:48:30.496Z"
+  },
+  {
+    "num": 1775,
+    "sno": 1098,
+    "name": "Rajyashree Rao",
+    "company": "Technodysis",
+    "email": "rajyashree@technodysis.com",
+    "status": "SUCCESS",
+    "messageId": "<ef8db9fa-9751-74bb-7f65-3f5cd7da065f@gmail.com>",
+    "timestamp": "2026-11-19T12:49:20.548Z"
+  },
+  {
+    "num": 1776,
+    "sno": 1099,
+    "name": "Rakesh Arora",
+    "company": "Skilrock Technologies",
+    "email": "rakesh.arora@skilrock.com",
+    "status": "SUCCESS",
+    "messageId": "<a3ffec5e-b960-2a6d-476f-f0907a05b52c@gmail.com>",
+    "timestamp": "2026-11-19T12:50:10.890Z"
+  },
+  {
+    "num": 1777,
+    "sno": 1100,
+    "name": "Rakesh Arora",
+    "company": "Sugal & Damani",
+    "email": "rakesh.arora@sugaldamani.com",
+    "status": "SUCCESS",
+    "messageId": "<6a0551b2-67d0-9731-6ec4-f173be723158@gmail.com>",
+    "timestamp": "2026-11-19T12:51:01.038Z"
+  },
+  {
+    "num": 1778,
+    "sno": 1101,
+    "name": "Rakesh Arora",
+    "company": "Taazaa Inc",
+    "email": "rakesh@taazaa.com",
+    "status": "SUCCESS",
+    "messageId": "<e75d252b-0549-5ac4-b876-be1466b7fa20@gmail.com>",
+    "timestamp": "2026-11-19T12:51:51.196Z"
+  },
+  {
+    "num": 1779,
+    "sno": 1102,
+    "name": "Rakesh Badam",
+    "company": "TOMIA",
+    "email": "rakesh.badam@tomiaglobal.com",
+    "status": "SUCCESS",
+    "messageId": "<7f5027e0-e5cc-a50d-4422-1e21310319c3@gmail.com>",
+    "timestamp": "2026-11-19T12:52:41.277Z"
+  },
+  {
+    "num": 1780,
+    "sno": 1103,
+    "name": "Rakesh Ebrahimpurkar",
+    "company": "IFTAS",
+    "email": "rakesh.e@63moons.com",
+    "status": "SUCCESS",
+    "messageId": "<c3d2750f-75b0-4b4c-8016-2d10896f76f0@gmail.com>",
+    "timestamp": "2026-11-19T12:53:31.379Z"
+  },
+  {
+    "num": 1781,
+    "sno": 1104,
+    "name": "Rakesh Kumar",
+    "company": "Alpha Net",
+    "email": "rakesh.kumar@anetcorp.com",
+    "status": "SUCCESS",
+    "messageId": "<c8205c73-d32b-750f-ecaa-f672a61a1e1a@gmail.com>",
+    "timestamp": "2026-11-19T12:54:21.531Z"
+  },
+  {
+    "num": 1782,
+    "sno": 1105,
+    "name": "Rakesh Raj",
+    "company": "Mergen IT LLC",
+    "email": "rakesh@mergenit.com",
+    "status": "SUCCESS",
+    "messageId": "<2a476b26-3025-82ac-eedb-4b36da0d5d69@gmail.com>",
+    "timestamp": "2026-11-19T12:55:11.639Z"
+  },
+  {
+    "num": 1783,
+    "sno": 1106,
+    "name": "Rakesh Vishwakarma",
+    "company": "Tejora",
+    "email": "rakesh.vishwakarma@tejora.com",
+    "status": "SUCCESS",
+    "messageId": "<213bf51f-0812-0b93-5508-eea13d648898@gmail.com>",
+    "timestamp": "2026-11-19T12:56:01.684Z"
+  },
+  {
+    "num": 1784,
+    "sno": 1107,
+    "name": "Rakshita Shharma",
+    "company": "Easy Eat AI",
+    "email": "rakshita@easyeat.ai",
+    "status": "SUCCESS",
+    "messageId": "<1ac0591d-08fa-eeec-a192-c6fe096cab86@gmail.com>",
+    "timestamp": "2026-11-19T12:56:52.063Z"
+  },
+  {
+    "num": 1785,
+    "sno": 1108,
+    "name": "Ram R",
+    "company": "Kairos Technologies",
+    "email": "ram.r@kairostech.com",
+    "status": "SUCCESS",
+    "messageId": "<f7e420e0-3018-4ecb-278f-d79e693a9e35@gmail.com>",
+    "timestamp": "2026-11-19T12:57:42.240Z"
+  },
+  {
+    "num": 1786,
+    "sno": 1109,
+    "name": "Ram Varadamoorthy",
+    "company": "Ducen",
+    "email": "ram.varadamoorthy@ducenit.com",
+    "status": "SUCCESS",
+    "messageId": "<ac083956-8d46-5c3d-3760-880f3eeaa3f5@gmail.com>",
+    "timestamp": "2026-11-19T12:58:32.379Z"
+  },
+  {
+    "num": 1787,
+    "sno": 1110,
+    "name": "Rama C",
+    "company": "Soroco",
+    "email": "rama.c@soroco.com",
+    "status": "SUCCESS",
+    "messageId": "<02233d3e-0bd9-d7e6-f0a3-0fc6ae98d879@gmail.com>",
+    "timestamp": "2026-11-19T12:59:22.548Z"
+  },
+  {
+    "num": 1788,
+    "sno": 1111,
+    "name": "Ramakrishna Chanduri",
+    "company": "MSRcosmos LLC",
+    "email": "ramakrishnac@msrcosmos.com",
+    "status": "SUCCESS",
+    "messageId": "<959841fe-6400-77ad-0e37-4d6523f77399@gmail.com>",
+    "timestamp": "2026-11-19T13:00:12.882Z"
+  },
+  {
+    "num": 1789,
+    "sno": 1112,
+    "name": "Ramakrishna Jampala",
+    "company": "ParadigmIT",
+    "email": "ramakrishna.jampala@paradigmit.com",
+    "status": "SUCCESS",
+    "messageId": "<9e3f946d-0796-7b16-be97-b2cc1cc5958d@gmail.com>",
+    "timestamp": "2026-11-19T13:01:03.094Z"
+  },
+  {
+    "num": 1790,
+    "sno": 1113,
+    "name": "Raman Tsk",
+    "company": "SEEC",
+    "email": "rtsk@seec.com",
+    "status": "SUCCESS",
+    "messageId": "<0a22ff17-3f0e-a4eb-8176-cbbb95d4ebc3@gmail.com>",
+    "timestamp": "2026-11-19T13:01:53.178Z"
+  },
+  {
+    "num": 1791,
+    "sno": 1114,
+    "name": "Ramani Ganesh",
+    "company": "Hirect India",
+    "email": "ramani@hirect.in",
+    "status": "SUCCESS",
+    "messageId": "<f903d1be-c239-97a5-6c32-d0ff250c46ee@gmail.com>",
+    "timestamp": "2026-11-19T13:02:43.349Z"
+  },
+  {
+    "num": 1792,
+    "sno": 1115,
+    "name": "Ramanjit Goswami",
+    "company": "Optimize IT Systems",
+    "email": "ramanjit.goswami@inadev.com",
+    "status": "SUCCESS",
+    "messageId": "<c8a72b43-f212-9d3a-9718-fe3af1927401@gmail.com>",
+    "timestamp": "2026-11-19T13:03:33.624Z"
+  },
+  {
+    "num": 1793,
+    "sno": 1116,
+    "name": "Ramanujam Cs",
+    "company": "iFocus Systec",
+    "email": "ramanujam.cs@ifocussystec.com",
+    "status": "SUCCESS",
+    "messageId": "<73533fe9-f65b-07e3-4016-efb9f6d6971e@gmail.com>",
+    "timestamp": "2026-11-19T13:04:23.776Z"
+  },
+  {
+    "num": 1794,
+    "sno": 1117,
+    "name": "Ramaprasad Baleguli",
+    "company": "V2Solutions",
+    "email": "ramaprasad.baleguli@v2solutions.com",
+    "status": "SUCCESS",
+    "messageId": "<f369393b-e51c-6271-35b5-b2a8d69ed7d4@gmail.com>",
+    "timestamp": "2026-11-19T13:05:13.899Z"
+  },
+  {
+    "num": 1795,
+    "sno": 1118,
+    "name": "Ramchandra Patil",
+    "company": "ABM Knowledgeware",
+    "email": "head.hr@abmindia.com",
+    "status": "SUCCESS",
+    "messageId": "<a26f2f7d-7668-1a58-2541-102ecd62570a@gmail.com>",
+    "timestamp": "2026-11-19T13:06:03.993Z"
+  },
+  {
+    "num": 1796,
+    "sno": 1119,
+    "name": "Ramesh Mantana",
+    "company": "Evoke Technologies",
+    "email": "rmantana@evoketechnologies.com",
+    "status": "SUCCESS",
+    "messageId": "<f9dc8b06-c745-327d-5e39-276fe4d019ad@gmail.com>",
+    "timestamp": "2026-11-19T13:06:54.160Z"
+  },
+  {
+    "num": 1797,
+    "sno": 1120,
+    "name": "Ramesh Parepalli",
+    "company": "PURVIEW",
+    "email": "ramesh.parepalli@purviewservices.com",
+    "status": "SUCCESS",
+    "messageId": "<c038e57c-177c-3baf-3f07-82bf0c0182c3@gmail.com>",
+    "timestamp": "2026-11-19T13:07:44.604Z"
+  },
+  {
+    "num": 1798,
+    "sno": 1121,
+    "name": "Ramesh Talwar",
+    "company": "CRMNEXT",
+    "email": "ramesh.talwar@crmnext.com",
+    "status": "SUCCESS",
+    "messageId": "<9135c8e8-cce4-fd0e-c79c-60093e2b4dfa@gmail.com>",
+    "timestamp": "2026-11-19T13:08:34.831Z"
+  },
+  {
+    "num": 1799,
+    "sno": 1122,
+    "name": "Ramkrishna Sahu",
+    "company": "CEPTES Software",
+    "email": "ramkrishna.sahu@ceptes.com",
+    "status": "SUCCESS",
+    "messageId": "<fbde24c1-b28a-72d0-a22d-d4b60053e215@gmail.com>",
+    "timestamp": "2026-11-19T13:09:24.902Z"
+  },
+  {
+    "num": 1800,
+    "sno": 1123,
+    "name": "Ramya Eradi",
+    "company": "Aujas Cybersecurity",
+    "email": "eradi.ramya@aujas.com",
+    "status": "SUCCESS",
+    "messageId": "<70719b06-7127-2fb3-b44c-41bb7cd65ece@gmail.com>",
+    "timestamp": "2026-11-19T13:10:15.055Z"
+  },
+  {
+    "num": 1801,
+    "sno": 1124,
+    "name": "Ramya Hv",
+    "company": "Profinch",
+    "email": "ramya.hv@profinch.com",
+    "status": "SUCCESS",
+    "messageId": "<629e6969-62a6-0567-5f73-79ce9c666dd0@gmail.com>",
+    "timestamp": "2026-11-19T13:11:05.159Z"
+  },
+  {
+    "num": 1802,
+    "sno": 1125,
+    "name": "Ramya Menon",
+    "company": "Edifecs",
+    "email": "ramya.menon@edifecs.com",
+    "status": "SUCCESS",
+    "messageId": "<ebf5f7f5-1e24-66cd-b433-2f2ff822a0b2@gmail.com>",
+    "timestamp": "2026-11-19T13:11:55.286Z"
+  },
+  {
+    "num": 1803,
+    "sno": 1126,
+    "name": "Ramya Ramachandran",
+    "company": "CloudSEK",
+    "email": "ramya.ramachandran@cloudsek.com",
+    "status": "SUCCESS",
+    "messageId": "<450c973d-7a47-4efd-8016-79c4e5b16763@gmail.com>",
+    "timestamp": "2026-11-19T13:12:45.481Z"
+  },
+  {
+    "num": 1804,
+    "sno": 1127,
+    "name": "Ramya Sharma",
+    "company": "GreyOrange",
+    "email": "ramya.s@greyorange.com",
+    "status": "SUCCESS",
+    "messageId": "<fde1c0ed-f7ac-906b-4489-79b00e3f95ed@gmail.com>",
+    "timestamp": "2026-11-19T13:13:35.562Z"
+  },
+  {
+    "num": 1805,
+    "sno": 1128,
+    "name": "Ramya Venkatesh",
+    "company": "Profinch",
+    "email": "ramya.venkatesh@profinch.com",
+    "status": "SUCCESS",
+    "messageId": "<cbe70994-9799-affb-f3d9-b161f3e23984@gmail.com>",
+    "timestamp": "2026-11-19T13:14:25.690Z"
+  },
+  {
+    "num": 1806,
+    "sno": 1129,
+    "name": "Rana Bose",
+    "company": "eMDs",
+    "email": "rana.bose@emds.com",
+    "status": "SUCCESS",
+    "messageId": "<f88d9edf-9b71-a064-d1b6-75d9bd127337@gmail.com>",
+    "timestamp": "2026-11-19T13:15:15.866Z"
+  },
+  {
+    "num": 1807,
+    "sno": 1130,
+    "name": "Ranjan Hooda",
+    "company": "RPS Consulting",
+    "email": "ranjan.hooda@rpsconsulting.in",
+    "status": "SUCCESS",
+    "messageId": "<e8be91e2-92dc-9543-e974-abf3a53e2169@gmail.com>",
+    "timestamp": "2026-11-19T13:16:06.004Z"
+  },
+  {
+    "num": 1808,
+    "sno": 1131,
+    "name": "Ranjana Anand",
+    "company": "Finesse Global",
+    "email": "ranjana@finessedirect.com",
+    "status": "SUCCESS",
+    "messageId": "<cbaad478-ca8a-4ff0-a30d-5d88875c8679@gmail.com>",
+    "timestamp": "2026-11-19T13:16:56.192Z"
+  },
+  {
+    "num": 1809,
+    "sno": 1132,
+    "name": "Ranjani Sunkara",
+    "company": "Incture",
+    "email": "ranjani.sunkara@incture.com",
+    "status": "SUCCESS",
+    "messageId": "<2ac6f3aa-7215-be65-e812-5bf5c0100f91@gmail.com>",
+    "timestamp": "2026-11-19T13:17:47.080Z"
+  },
+  {
+    "num": 1810,
+    "sno": 1133,
+    "name": "Ranjeeta Das",
+    "company": "Iksula",
+    "email": "ranjeeta.d@iksula.com",
+    "status": "SUCCESS",
+    "messageId": "<e2e6ef36-850e-e270-d411-db46c34cd2ef@gmail.com>",
+    "timestamp": "2026-11-19T13:18:37.403Z"
+  },
+  {
+    "num": 1811,
+    "sno": 1134,
+    "name": "Ranjit Dhillon",
+    "company": "Spanco BPO",
+    "email": "ranjitd@spancobpo.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff622711asm30129125ad.47 - gsmtp",
+    "timestamp": "2026-11-19T13:19:26.803Z"
+  },
+  {
+    "num": 1812,
+    "sno": 1135,
+    "name": "Ranjith Vp",
+    "company": "Aujas Cybersecurity",
+    "email": "ranjith.vp@aujas.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2f03c4f3bd8sm1560035ad.16 - gsmtp",
+    "timestamp": "2026-11-19T13:20:16.496Z"
+  },
+  {
+    "num": 1813,
+    "sno": 1136,
+    "name": "Ranjitha Sathyanarayan",
+    "company": "HealthAsyst",
+    "email": "ranjitha.s@healthasyst.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde533658e4sm1703979a12.2 - gsmtp",
+    "timestamp": "2026-11-19T13:21:06.152Z"
+  },
+  {
+    "num": 1814,
+    "sno": 1137,
+    "name": "Ranju Nair",
+    "company": "EA Team Inc",
+    "email": "ranju@eateam.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff61162dcsm31035705ad.18 - gsmtp",
+    "timestamp": "2026-11-19T13:21:55.780Z"
+  },
+  {
+    "num": 1815,
+    "sno": 1138,
+    "name": "Rashmi Chauhan",
+    "company": "RateGain",
+    "email": "rashmi.chauhan@rategain.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde53506b98sm1713084a12.30 - gsmtp",
+    "timestamp": "2026-11-19T13:22:45.373Z"
+  },
+  {
+    "num": 1816,
+    "sno": 1139,
+    "name": "Rashmi George",
+    "company": "Niveus Solutions",
+    "email": "rashmi.george@niveussolutions.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff6234f43sm30383715ad.52 - gsmtp",
+    "timestamp": "2026-11-19T13:23:34.987Z"
+  },
+  {
+    "num": 1817,
+    "sno": 1140,
+    "name": "Rashmi Gupte",
+    "company": "WisdmLabs",
+    "email": "rashmi.gupte@wisdmlabs.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde5348b3fbsm1664544a12.15 - gsmtp",
+    "timestamp": "2026-11-19T13:24:24.612Z"
+  },
+  {
+    "num": 1818,
+    "sno": 1141,
+    "name": "Rashmi Taksande",
+    "company": "Softdel",
+    "email": "rashmi.taksande@softdel.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff6115aabsm31175725ad.24 - gsmtp",
+    "timestamp": "2026-11-19T13:25:14.266Z"
+  },
+  {
+    "num": 1819,
+    "sno": 1142,
+    "name": "Rashmita Pradhan",
+    "company": "TekLink International",
+    "email": "rashmita.pradhan@teklink.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2eff61841aasm31030815ad.34 - gsmtp",
+    "timestamp": "2026-11-19T13:26:03.941Z"
+  },
+  {
+    "num": 1820,
+    "sno": 1143,
+    "name": "Rashmme Eshwar",
+    "company": "DataCore Software",
+    "email": "rashmme.eshwar@datacore.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b402981814sm1423940a91.2 - gsmtp",
+    "timestamp": "2026-11-19T13:26:53.602Z"
+  },
+  {
+    "num": 1821,
+    "sno": 1144,
+    "name": "Ratan Dalal",
+    "company": "Creative Synergies Group",
+    "email": "ratan.dalal@global-csg.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b4057a6befsm2861952a91.5 - gsmtp",
+    "timestamp": "2026-11-19T13:27:43.258Z"
+  },
+  {
+    "num": 1822,
+    "sno": 1145,
+    "name": "Ratika Mirji",
+    "company": "Neviton Softech.",
+    "email": "ratika.mirji@neviton.com",
+    "status": "SUCCESS",
+    "messageId": "<5dc71b69-7825-9c9c-dc73-7b621165cc30@gmail.com>",
+    "timestamp": "2026-11-19T13:28:33.872Z"
+  },
+  {
+    "num": 1823,
+    "sno": 1146,
+    "name": "Ratish Kurle",
+    "company": "Maintec Technologies",
+    "email": "ratish@maintec.com",
+    "status": "SUCCESS",
+    "messageId": "<51074427-4a2d-eeba-a7d2-ff90e8f0204f@gmail.com>",
+    "timestamp": "2026-11-19T13:29:23.950Z"
+  },
+  {
+    "num": 1824,
+    "sno": 1147,
+    "name": "Ratish Ravindran",
+    "company": "IANT",
+    "email": "ratish.r@iantindia.com",
+    "status": "SUCCESS",
+    "messageId": "<7e8e078a-94a3-c7e2-e610-82da4045262d@gmail.com>",
+    "timestamp": "2026-11-19T13:30:14.404Z"
+  },
+  {
+    "num": 1825,
+    "sno": 1148,
+    "name": "Ravdeep Singh",
+    "company": "SourceFuse Technologies",
+    "email": "ravdeep.singh@sourcefuse.com",
+    "status": "SUCCESS",
+    "messageId": "<fe328e34-943c-527b-6090-59b27cc580ce@gmail.com>",
+    "timestamp": "2026-11-19T13:31:04.541Z"
+  },
+  {
+    "num": 1826,
+    "sno": 1149,
+    "name": "Raveendra Datla",
+    "company": "Smart IMS",
+    "email": "raveendra.datla@smartims.com",
+    "status": "SUCCESS",
+    "messageId": "<b855e20b-d2ca-faa2-fd55-8ef4be3abff8@gmail.com>",
+    "timestamp": "2026-11-19T13:31:54.797Z"
+  },
+  {
+    "num": 1827,
+    "sno": 1150,
+    "name": "Ravi Bhushan",
+    "company": "Techila Global Services",
+    "email": "ravi.bhushan@techilaservices.com",
+    "status": "SUCCESS",
+    "messageId": "<53baefd8-7087-8965-57c1-751c711ab663@gmail.com>",
+    "timestamp": "2026-11-19T13:32:44.928Z"
+  },
+  {
+    "num": 1828,
+    "sno": 1151,
+    "name": "Ravi Devara",
+    "company": "TechTammina LLC",
+    "email": "ravi.devara@tammina.com",
+    "status": "SUCCESS",
+    "messageId": "<b1f679ff-6de7-0851-cf12-171ea1e7499d@gmail.com>",
+    "timestamp": "2026-11-19T13:33:35.520Z"
+  },
+  {
+    "num": 1829,
+    "sno": 1152,
+    "name": "Ravi Gurunathan",
+    "company": "iValue InfoSolutions",
+    "email": "ravi.gurunathan@ivalue.co.in",
+    "status": "SUCCESS",
+    "messageId": "<1cb38b07-d648-5b26-deb7-51f03eb2ba4f@gmail.com>",
+    "timestamp": "2026-11-19T13:34:25.792Z"
+  },
+  {
+    "num": 1830,
+    "sno": 1153,
+    "name": "Ravi K",
+    "company": "CRMIT Solutions",
+    "email": "ravi.k@crmit.com",
+    "status": "SUCCESS",
+    "messageId": "<b4d5994b-4dfd-78dc-afe0-64942bab9cb2@gmail.com>",
+    "timestamp": "2026-11-19T13:35:17.817Z"
+  },
+  {
+    "num": 1831,
+    "sno": 1154,
+    "name": "Ravi Kasinadhuni",
+    "company": "CRMIT Solutions",
+    "email": "ravi.kasinadhuni@crmit.com",
+    "status": "SUCCESS",
+    "messageId": "<bde2eb08-44c0-494e-cd56-81776fd591fb@gmail.com>",
+    "timestamp": "2026-11-19T13:36:08.002Z"
+  },
+  {
+    "num": 1832,
+    "sno": 1155,
+    "name": "Ravi Kuchampudi",
+    "company": "ZenQ",
+    "email": "ravi.kuchampudi@zenq.com",
+    "status": "SUCCESS",
+    "messageId": "<118172fe-749f-d97f-bb09-b857ca1012e0@gmail.com>",
+    "timestamp": "2026-11-19T13:36:58.100Z"
+  },
+  {
+    "num": 1833,
+    "sno": 1156,
+    "name": "Ravi Kumar",
+    "company": "Ample Technologies",
+    "email": "ravi.kumar@ample.co.in",
+    "status": "SUCCESS",
+    "messageId": "<01997fb8-2b99-bef5-7e4a-018d1f41f411@gmail.com>",
+    "timestamp": "2026-11-19T13:37:48.402Z"
+  },
+  {
+    "num": 1834,
+    "sno": 1157,
+    "name": "Ravi Kumar",
+    "company": "Saicon",
+    "email": "rkumar@saiconinc.com",
+    "status": "SUCCESS",
+    "messageId": "<5af02177-f230-375f-09f5-a7860245e247@gmail.com>",
+    "timestamp": "2026-11-19T13:38:38.629Z"
+  },
+  {
+    "num": 1835,
+    "sno": 1158,
+    "name": "Ravi Mourya",
+    "company": "WAISL",
+    "email": "ravi.mourya@waisl.in",
+    "status": "SUCCESS",
+    "messageId": "<11c67a34-9079-37b3-f614-4866ade2b384@gmail.com>",
+    "timestamp": "2026-11-19T13:39:28.745Z"
+  },
+  {
+    "num": 1836,
+    "sno": 1159,
+    "name": "Ravi Shankar",
+    "company": "CRMIT Solutions",
+    "email": "ravi.shankar@crmit.com",
+    "status": "SUCCESS",
+    "messageId": "<f38efd0d-7330-4dc8-e6be-932caf92f5a6@gmail.com>",
+    "timestamp": "2026-11-19T13:40:18.978Z"
+  },
+  {
+    "num": 1837,
+    "sno": 1160,
+    "name": "Ravi Surathu",
+    "company": "Olive Technology",
+    "email": "ravi@olivetech.com",
+    "status": "SUCCESS",
+    "messageId": "<d3c6d22a-7434-05ed-3ea6-35e51d196cda@gmail.com>",
+    "timestamp": "2026-11-19T13:41:09.245Z"
+  },
+  {
+    "num": 1838,
+    "sno": 1161,
+    "name": "Ravi Vattikota",
+    "company": "itelligence India Software Solutions",
+    "email": "ravi.vattikota@itelligencegroup.com",
+    "status": "SUCCESS",
+    "messageId": "<679d0460-c757-6cb7-53c0-b54277a7d01b@gmail.com>",
+    "timestamp": "2026-11-19T13:41:59.387Z"
+  },
+  {
+    "num": 1839,
+    "sno": 1162,
+    "name": "Ravichandran Perumal",
+    "company": "Span Technology Services",
+    "email": "ravichandran@spantechnologyservices.com",
+    "status": "SUCCESS",
+    "messageId": "<7b67929e-5ae2-a966-5453-4cc808c5bfa7@gmail.com>",
+    "timestamp": "2026-11-19T13:42:49.457Z"
+  },
+  {
+    "num": 1840,
+    "sno": 1163,
+    "name": "Ravikumar M",
+    "company": "Aditi Consulting",
+    "email": "ravikumarm@aditiconsulting.com",
+    "status": "SUCCESS",
+    "messageId": "<3b003d39-84cc-6b44-dfc5-79ab703d6c48@gmail.com>",
+    "timestamp": "2026-11-19T13:43:39.558Z"
+  },
+  {
+    "num": 1841,
+    "sno": 1164,
+    "name": "Ravindra Dandekar",
+    "company": "MyGlamm",
+    "email": "ravindra.dandekar@myglamm.com",
+    "status": "SUCCESS",
+    "messageId": "<6d663f59-2f78-bbc4-f2d9-27d713da30c7@gmail.com>",
+    "timestamp": "2026-11-19T13:44:29.707Z"
+  },
+  {
+    "num": 1842,
+    "sno": 1165,
+    "name": "Ravindra Musunuru",
+    "company": "Prowess Software Services",
+    "email": "ravindra.musunuru@prowesssoft.com",
+    "status": "SUCCESS",
+    "messageId": "<ab2d0944-8365-ddd6-f68e-d59d99316a19@gmail.com>",
+    "timestamp": "2026-11-19T13:45:19.913Z"
+  },
+  {
+    "num": 1843,
+    "sno": 1166,
+    "name": "Ravisankar Velidi",
+    "company": "Increff",
+    "email": "ravisankar.velidi@increff.com",
+    "status": "SUCCESS",
+    "messageId": "<df8f832e-eeea-1f71-6dc6-d2ab0d344e19@gmail.com>",
+    "timestamp": "2026-11-19T13:46:10.034Z"
+  },
+  {
+    "num": 1844,
+    "sno": 1167,
+    "name": "Ravish Chadha",
+    "company": "Niyuj",
+    "email": "ravish.chadha@niyuj.com",
+    "status": "SUCCESS",
+    "messageId": "<b1a17f25-dd7b-8fdd-108c-fdef1d455e38@gmail.com>",
+    "timestamp": "2026-11-19T13:47:00.380Z"
+  },
+  {
+    "num": 1845,
+    "sno": 1168,
+    "name": "Ravishanker Kannan",
+    "company": "Solverminds Solutions & Technologies",
+    "email": "ravishanker.kannan@solverminds.com",
+    "status": "SUCCESS",
+    "messageId": "<0f810887-f926-1404-6959-be5fa1b63131@gmail.com>",
+    "timestamp": "2026-11-19T13:47:50.491Z"
+  },
+  {
+    "num": 1846,
+    "sno": 1169,
+    "name": "Ravitha Devasenapathy",
+    "company": "EPIKInDiFi",
+    "email": "ravitha.devasenapathy@epikindifi.com",
+    "status": "SUCCESS",
+    "messageId": "<52abc0bf-11c0-c31f-9738-59cc41eb6510@gmail.com>",
+    "timestamp": "2026-11-19T13:48:40.686Z"
+  },
+  {
+    "num": 1847,
+    "sno": 1170,
+    "name": "Ravneet Kaur",
+    "company": "PRIMUS Global Technologies",
+    "email": "rkaur@primusglobal.com",
+    "status": "SUCCESS",
+    "messageId": "<7269c3da-ddbf-9f0d-9bc5-150d24aec637@gmail.com>",
+    "timestamp": "2026-11-19T13:49:30.793Z"
+  },
+  {
+    "num": 1848,
+    "sno": 1171,
+    "name": "Ray Albro",
+    "company": "STAND 8 Technology Services",
+    "email": "ralbro@stand8.io",
+    "status": "SUCCESS",
+    "messageId": "<fcf89afb-76df-85bc-85d4-a5b38f9d08c0@gmail.com>",
+    "timestamp": "2026-11-19T13:50:20.888Z"
+  },
+  {
+    "num": 1849,
+    "sno": 1172,
+    "name": "Reddy",
+    "company": "Mantra",
+    "email": "reddy@mantratechno.com",
+    "status": "SUCCESS",
+    "messageId": "<22316d21-7c9a-0e7f-bd5e-1a25471e7eed@gmail.com>",
+    "timestamp": "2026-11-19T13:51:10.943Z"
+  },
+  {
+    "num": 1850,
+    "sno": 1173,
+    "name": "Reena Bajaj",
+    "company": "Solverminds Solutions & Technologies",
+    "email": "reena.bajaj@solverminds.com",
+    "status": "SUCCESS",
+    "messageId": "<4f7e0f6a-517a-8bd5-8d98-df5997191db3@gmail.com>",
+    "timestamp": "2026-11-19T13:52:01.085Z"
+  },
+  {
+    "num": 1851,
+    "sno": 1174,
+    "name": "Reena Bhansali",
+    "company": "Matellio",
+    "email": "reena@matellio.com",
+    "status": "SUCCESS",
+    "messageId": "<fb9840f2-94ac-21fd-9750-be6d2a872f83@gmail.com>",
+    "timestamp": "2026-11-19T13:52:51.201Z"
+  },
+  {
+    "num": 1852,
+    "sno": 1175,
+    "name": "Reena Vijayanand",
+    "company": "AdaniConneX",
+    "email": "reena.v@adani.com",
+    "status": "SUCCESS",
+    "messageId": "<fc158f58-94fa-60ae-04a4-bfb3f0d962b0@gmail.com>",
+    "timestamp": "2026-11-19T13:53:41.327Z"
+  },
+  {
+    "num": 1853,
+    "sno": 1176,
+    "name": "Reenaa S",
+    "company": "63 moons Technologies",
+    "email": "reenaa.s@63moons.com",
+    "status": "SUCCESS",
+    "messageId": "<c862de86-975b-a4a4-59d9-0475042a0468@gmail.com>",
+    "timestamp": "2026-11-19T13:54:31.467Z"
+  },
+  {
+    "num": 1854,
+    "sno": 1177,
+    "name": "Rehan Abdi",
+    "company": "KiwiTech",
+    "email": "rehan.abdi@kiwitech.com",
+    "status": "SUCCESS",
+    "messageId": "<a6f62331-616e-eda9-b2c4-2937c922a3b2@gmail.com>",
+    "timestamp": "2026-11-19T13:55:21.601Z"
+  },
+  {
+    "num": 1855,
+    "sno": 1178,
+    "name": "Rehana Inamdar",
+    "company": "SMARTe",
+    "email": "rehana.inamdar@smarteinc.com",
+    "status": "SUCCESS",
+    "messageId": "<a93eda59-c0c4-ac48-3a69-9ecf839e57f0@gmail.com>",
+    "timestamp": "2026-11-19T13:56:11.988Z"
+  },
+  {
+    "num": 1856,
+    "sno": 1179,
+    "name": "Rekha Nair",
+    "company": "Navis",
+    "email": "rekha.nair@navis.com",
+    "status": "SUCCESS",
+    "messageId": "<fd3e4c38-f386-0556-3e7e-8b029bd47b7e@gmail.com>",
+    "timestamp": "2026-11-19T13:57:02.158Z"
+  },
+  {
+    "num": 1857,
+    "sno": 1180,
+    "name": "Rekha Poonacha",
+    "company": "CodeForce 360",
+    "email": "rekhap@codeforce.com",
+    "status": "SUCCESS",
+    "messageId": "<a3bf7790-cd58-cbd9-0222-5200efd9bcfa@gmail.com>",
+    "timestamp": "2026-11-19T13:57:52.257Z"
+  },
+  {
+    "num": 1858,
+    "sno": 1181,
+    "name": "Remi Vaz",
+    "company": "SurePrep LLC",
+    "email": "remi.vaz@sureprep.com",
+    "status": "SUCCESS",
+    "messageId": "<1e68c608-4c8f-9b5d-8442-d8182bc4385f@gmail.com>",
+    "timestamp": "2026-11-19T13:58:42.463Z"
+  },
+  {
+    "num": 1859,
+    "sno": 1182,
+    "name": "Remisa Dhar",
+    "company": "Percipere",
+    "email": "remisa.dhar@percipere.co",
+    "status": "SUCCESS",
+    "messageId": "<5ef45df5-2b16-6144-2fea-042b0a909a06@gmail.com>",
+    "timestamp": "2026-11-19T13:59:32.598Z"
+  },
+  {
+    "num": 1860,
+    "sno": 1183,
+    "name": "Rena Soans",
+    "company": "Newfold Digital",
+    "email": "rena.so@endurance.com",
+    "status": "SUCCESS",
+    "messageId": "<a6f779fc-24f4-6af1-2404-8e4df17692d7@gmail.com>",
+    "timestamp": "2026-11-19T14:00:22.812Z"
+  },
+  {
+    "num": 1861,
+    "sno": 1184,
+    "name": "Rency Hakani",
+    "company": "ManekTech",
+    "email": "rency.hakani@manektech.com",
+    "status": "SUCCESS",
+    "messageId": "<de89a276-c185-4bc5-ca1f-c8c74d03b911@gmail.com>",
+    "timestamp": "2026-11-19T14:01:13.234Z"
+  },
+  {
+    "num": 1862,
+    "sno": 1185,
+    "name": "Renju Nithin",
+    "company": "Bridge Global",
+    "email": "renju.nithin@bridge-global.com",
+    "status": "SUCCESS",
+    "messageId": "<80c61f49-4644-027a-8a68-535be6b7eaf7@gmail.com>",
+    "timestamp": "2026-11-19T14:02:03.493Z"
+  },
+  {
+    "num": 1863,
+    "sno": 1186,
+    "name": "Renu Srivastava",
+    "company": "AGDATA, LP",
+    "email": "renu.srivastava@agdata.com",
+    "status": "SUCCESS",
+    "messageId": "<fefcc642-61a7-294e-be58-55d3a12d55c3@gmail.com>",
+    "timestamp": "2026-11-19T14:02:53.551Z"
+  },
+  {
+    "num": 1864,
+    "sno": 1187,
+    "name": "Reshma Bopanna",
+    "company": "Girmiti Software",
+    "email": "reshma.bopanna@girmiti.com",
+    "status": "SUCCESS",
+    "messageId": "<1e6b1aac-d23c-daf4-da87-2221fea1b790@gmail.com>",
+    "timestamp": "2026-11-19T14:03:43.721Z"
+  },
+  {
+    "num": 1865,
+    "sno": 1188,
+    "name": "Reshma Mohan",
+    "company": "Gemini Consulting & Services",
+    "email": "reshma.mohan@gemini-us.com",
+    "status": "SUCCESS",
+    "messageId": "<9bf464ba-be3e-382e-5bd9-75d9cdf074d8@gmail.com>",
+    "timestamp": "2026-11-19T14:04:33.852Z"
+  },
+  {
+    "num": 1866,
+    "sno": 1189,
+    "name": "Revathi Venkatesh",
+    "company": "iBridge",
+    "email": "revathi.venkatesh@ibridgellc.com",
+    "status": "SUCCESS",
+    "messageId": "<cd16af47-d87b-9294-65fe-884551cfba79@gmail.com>",
+    "timestamp": "2026-11-19T14:05:24.090Z"
+  },
+  {
+    "num": 1867,
+    "sno": 1190,
+    "name": "Revathy Reddy",
+    "company": "Glu Mobile",
+    "email": "revathy.reddy@glu.com",
+    "status": "SUCCESS",
+    "messageId": "<44885f01-6b5b-06b0-9ca5-1f549fdfd817@gmail.com>",
+    "timestamp": "2026-11-19T14:06:14.203Z"
+  },
+  {
+    "num": 1868,
+    "sno": 1191,
+    "name": "Richa Pande",
+    "company": "Inatech",
+    "email": "richa.pande@inatech.com",
+    "status": "SUCCESS",
+    "messageId": "<35f3e43c-24c3-8f75-0551-b59d40b73d4d@gmail.com>",
+    "timestamp": "2026-11-19T14:07:04.456Z"
+  },
+  {
+    "num": 1869,
+    "sno": 1192,
+    "name": "Richie Joseph",
+    "company": "PurpleTalk",
+    "email": "joseph@purpletalk.com",
+    "status": "SUCCESS",
+    "messageId": "<2ffc9a05-4588-94cb-2558-084c8fd84aba@gmail.com>",
+    "timestamp": "2026-11-19T14:07:54.667Z"
+  },
+  {
+    "num": 1870,
+    "sno": 1193,
+    "name": "Ridhima Gera",
+    "company": "Pharmarack",
+    "email": "ridhimag@pharmarack.com",
+    "status": "SUCCESS",
+    "messageId": "<93897286-d747-9810-ca01-e86a18b66198@gmail.com>",
+    "timestamp": "2026-11-19T14:08:44.939Z"
+  },
+  {
+    "num": 1871,
+    "sno": 1194,
+    "name": "Rijil Kannoth",
+    "company": "Infobelt",
+    "email": "rijil.kannoth@infobelt.com",
+    "status": "SUCCESS",
+    "messageId": "<5aa5b38b-4b03-7803-964b-04055982a06c@gmail.com>",
+    "timestamp": "2026-11-19T14:09:35.053Z"
+  },
+  {
+    "num": 1872,
+    "sno": 1195,
+    "name": "Rima Das",
+    "company": "Maropost",
+    "email": "rima@maropost.com",
+    "status": "SUCCESS",
+    "messageId": "<d67bf430-38f2-e527-552d-a8e13d72684f@gmail.com>",
+    "timestamp": "2026-11-19T14:10:25.191Z"
+  },
+  {
+    "num": 1873,
+    "sno": 1196,
+    "name": "Rimpee Kukreja",
+    "company": "Pelican.ai",
+    "email": "rkukreja@pelican.ai",
+    "status": "SUCCESS",
+    "messageId": "<8ec61b97-7ae2-2565-a66a-78905101eb81@gmail.com>",
+    "timestamp": "2026-11-19T14:11:15.355Z"
+  },
+  {
+    "num": 1874,
+    "sno": 1197,
+    "name": "Rinki Goel",
+    "company": "Hevo Data",
+    "email": "rinki.goel@hevodata.com",
+    "status": "SUCCESS",
+    "messageId": "<ef5e40f5-1d91-8ef0-8f85-9f6f877d5b93@gmail.com>",
+    "timestamp": "2026-11-19T14:12:05.474Z"
+  },
+  {
+    "num": 1875,
+    "sno": 1198,
+    "name": "Rinku Chauhan",
+    "company": "Lumel",
+    "email": "rinkuc@lumel.com",
+    "status": "SUCCESS",
+    "messageId": "<2d2473a6-0fce-58a6-7470-f69db757e4de@gmail.com>",
+    "timestamp": "2026-11-19T14:12:55.674Z"
+  },
+  {
+    "num": 1876,
+    "sno": 1199,
+    "name": "Rishabh",
+    "company": "CETPA Infotech",
+    "email": "rishabhkalra@cetpainfotech.com",
+    "status": "SUCCESS",
+    "messageId": "<16eb181e-94cc-6264-a0ac-460bd8988cd3@gmail.com>",
+    "timestamp": "2026-11-19T14:13:45.742Z"
+  },
+  {
+    "num": 1877,
+    "sno": 1200,
+    "name": "Rishabh Jain",
+    "company": "Angara E-Commerce",
+    "email": "rishabh.jain@angara.com",
+    "status": "SUCCESS",
+    "messageId": "<14e41a05-d34c-084b-df43-90e21dc5cbb9@gmail.com>",
+    "timestamp": "2026-11-19T14:14:35.879Z"
+  },
+  {
+    "num": 1878,
+    "sno": 1201,
+    "name": "Ritesh Advani",
+    "company": "GoldenSource",
+    "email": "radvani@thegoldensource.com",
+    "status": "SUCCESS",
+    "messageId": "<51c7cab3-9e5e-fe8f-1365-5f1492ab5bc3@gmail.com>",
+    "timestamp": "2026-11-19T14:15:25.999Z"
+  },
+  {
+    "num": 1879,
+    "sno": 1202,
+    "name": "Ritika Jatana",
+    "company": "Docmation",
+    "email": "rjatana@docmation.com",
+    "status": "SUCCESS",
+    "messageId": "<6ca3b72e-17b2-0732-32a4-9f9817db1384@gmail.com>",
+    "timestamp": "2026-11-19T14:16:16.130Z"
+  },
+  {
+    "num": 1880,
+    "sno": 1203,
+    "name": "Ritika Jha",
+    "company": "Codelogicx",
+    "email": "ritika.jha@codelogicx.com",
+    "status": "SUCCESS",
+    "messageId": "<05af5068-ef0d-f78c-39ef-4f942949f876@gmail.com>",
+    "timestamp": "2026-11-19T14:17:06.348Z"
+  },
+  {
+    "num": 1881,
+    "sno": 1204,
+    "name": "Ritika Malhotra",
+    "company": "DotPe",
+    "email": "ritika.malhotra@dotpe.in",
+    "status": "SUCCESS",
+    "messageId": "<9bbc5dda-786d-9368-256a-e76ac902c905@gmail.com>",
+    "timestamp": "2026-11-19T14:17:56.893Z"
+  },
+  {
+    "num": 1882,
+    "sno": 1205,
+    "name": "Ritika Naithani",
+    "company": "Infollion Research Services",
+    "email": "ritika.naithani@infollion.com",
+    "status": "SUCCESS",
+    "messageId": "<3b671d05-3318-12be-1359-81643d67500d@gmail.com>",
+    "timestamp": "2026-11-19T14:18:47.082Z"
+  },
+  {
+    "num": 1883,
+    "sno": 1206,
+    "name": "Ritu Malhotra",
+    "company": "Zemoso Technologies",
+    "email": "ritu.malhotra@zemosolabs.com",
+    "status": "SUCCESS",
+    "messageId": "<2190cc4b-a74d-97dc-7e88-6117b49f03ae@gmail.com>",
+    "timestamp": "2026-11-19T14:19:37.248Z"
+  },
+  {
+    "num": 1884,
+    "sno": 1207,
+    "name": "Robin B",
+    "company": "BURGEON IT SERVICES",
+    "email": "robin@burgeonits.net",
+    "status": "SUCCESS",
+    "messageId": "<d07b8166-bf61-4986-741c-b3ae35657d42@gmail.com>",
+    "timestamp": "2026-11-19T14:20:27.324Z"
+  },
+  {
+    "num": 1885,
+    "sno": 1208,
+    "name": "Robin Massey",
+    "company": "FiveS Digital",
+    "email": "robin.massey@fivesdigital.com",
+    "status": "SUCCESS",
+    "messageId": "<70bf42ba-f17b-fc1d-d4c4-5ef189dc84ee@gmail.com>",
+    "timestamp": "2026-11-19T14:21:17.545Z"
+  },
+  {
+    "num": 1886,
+    "sno": 1209,
+    "name": "Robin Thomas",
+    "company": "ECS Fin",
+    "email": "robin.thomas@ecsfin.com",
+    "status": "SUCCESS",
+    "messageId": "<8d9e558f-45a0-2292-1ca4-746077c8e6a0@gmail.com>",
+    "timestamp": "2026-11-19T14:22:07.831Z"
+  },
+  {
+    "num": 1887,
+    "sno": 1210,
+    "name": "Rohini G",
+    "company": "Innobox",
+    "email": "rohini@innobox.com",
+    "status": "SUCCESS",
+    "messageId": "<765d2a0e-8cf3-67c3-2463-e2fec0592a8f@gmail.com>",
+    "timestamp": "2026-11-19T14:22:58.050Z"
+  },
+  {
+    "num": 1888,
+    "sno": 1211,
+    "name": "Rohini Radhakrishnan",
+    "company": "Ideas2IT Technologies",
+    "email": "rohini.radhakrishnan@ideas2it.com",
+    "status": "SUCCESS",
+    "messageId": "<9495e8fb-282a-a450-8edf-29bf80cc4eeb@gmail.com>",
+    "timestamp": "2026-11-19T14:23:48.138Z"
+  },
+  {
+    "num": 1889,
+    "sno": 1212,
+    "name": "Rohini Rai",
+    "company": "Taazaa Inc",
+    "email": "rohini.rai@taazaa.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-3b405927369sm2734939a91.12 - gsmtp",
+    "timestamp": "2026-11-19T14:24:37.586Z"
+  },
+  {
+    "num": 1890,
+    "sno": 1213,
+    "name": "Rohini Wwagh",
+    "company": "Nitor Infotech",
+    "email": "rohiniw@nitorinfotech.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2f03ee843d2sm495355ad.11 - gsmtp",
+    "timestamp": "2026-11-19T14:25:27.261Z"
+  },
+  {
+    "num": 1891,
+    "sno": 1214,
+    "name": "Rohit Jain",
+    "company": "Kale Logistics Solutions",
+    "email": "rohit.jain@kalelogistics.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde533658e4sm1819104a12.2 - gsmtp",
+    "timestamp": "2026-11-19T14:26:16.921Z"
+  },
+  {
+    "num": 1892,
+    "sno": 1215,
+    "name": "Rohit Kalamkar",
+    "company": "Mindpool Technologies Inc",
+    "email": "rohit@mindpooltech.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-cde5336475csm1926171a12.3 - gsmtp",
+    "timestamp": "2026-11-19T14:27:06.561Z"
+  },
+  {
+    "num": 1893,
+    "sno": 1216,
+    "name": "Rohit Minton",
+    "company": "Health Prime",
+    "email": "rohit.minton@hpiinc.com",
+    "status": "FAILED",
+    "error": "Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail\n550-5.4.5 sending limits go to\n550 5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2f03f118c72sm214055ad.54 - gsmtp",
+    "timestamp": "2026-11-19T14:27:56.184Z"
+  },
+  {
+    "num": 1894,
+    "sno": 1217,
+    "name": "Rohit Singh",
+    "company": "bluCognition",
+    "email": "rohit.singh@blucognition.ai",
+    "status": "SUCCESS",
+    "messageId": "<042cfdc4-9b3a-a224-f365-aefaae5911da@gmail.com>",
+    "timestamp": "2026-11-19T14:28:46.561Z"
+  },
+  {
+    "num": 1895,
+    "sno": 1218,
+    "name": "Rohit Singh",
+    "company": "ISSQUARED",
+    "email": "rsingh@issquaredinc.com",
+    "status": "SUCCESS",
+    "messageId": "<d1459ca4-ca62-4d99-0985-1af5829e9013@gmail.com>",
+    "timestamp": "2026-11-19T14:29:36.980Z"
+  },
+  {
+    "num": 1896,
+    "sno": 1219,
+    "name": "Roli Singh",
+    "company": "VFI SLK",
+    "email": "roli.singh@vfislk.com",
+    "status": "SUCCESS",
+    "messageId": "<3c9813f0-565d-20ed-bc8c-eb3c493d3be4@gmail.com>",
+    "timestamp": "2026-11-19T14:30:27.226Z"
+  },
+  {
+    "num": 1897,
+    "sno": 1220,
+    "name": "Roohi",
+    "company": "ForecastEra",
+    "email": "roohi.syeda@forecastera.com",
+    "status": "SUCCESS",
+    "messageId": "<575f6699-6ac0-2a84-e0f4-31ba3d05961f@gmail.com>",
+    "timestamp": "2026-11-19T14:31:17.518Z"
+  },
+  {
+    "num": 1898,
+    "sno": 1221,
+    "name": "Roopa Gangadharan",
+    "company": "Aujas Cybersecurity",
+    "email": "roopa.g@aujas.com",
+    "status": "SUCCESS",
+    "messageId": "<73f932fb-67de-d755-a742-e7b99e05ac7d@gmail.com>",
+    "timestamp": "2026-11-19T14:32:07.901Z"
+  },
+  {
+    "num": 1899,
+    "sno": 1222,
+    "name": "Roopa Rajesh",
+    "company": "Bobcares",
+    "email": "roopa.rajesh@bobcares.com",
+    "status": "SUCCESS",
+    "messageId": "<edaece1f-2b2f-3842-c2fa-754c793070f5@gmail.com>",
+    "timestamp": "2026-11-19T14:32:58.016Z"
+  },
+  {
+    "num": 1900,
+    "sno": 1223,
+    "name": "Roopali Srivastava",
+    "company": "AIT Global India",
+    "email": "roopali@aitglobalinc.com",
+    "status": "SUCCESS",
+    "messageId": "<f43f77af-6aa5-7938-a78a-7a2fe3307840@gmail.com>",
+    "timestamp": "2026-11-19T14:33:48.243Z"
+  }
+]

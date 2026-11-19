@@ -118,10 +118,12 @@
     "end": 1900,
     "targetCount": 200,
     "window": "09:00 AM - 12:00 PM IST",
-    "status": "PENDING",
-    "sentCount": 0,
-    "failedCount": 0,
-    "logFile": null
+    "status": "COMPLETED_WITH_ERRORS",
+    "sentCount": 166,
+    "failedCount": 34,
+    "logFile": "batch_1701_to_1900_2026-11-19.json",
+    "startedAt": "2026-11-19T11:47:27.329Z",
+    "completedAt": "2026-11-19T14:33:48.244Z"
   },
   {
     "day": "Friday",
